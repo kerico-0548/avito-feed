@@ -23,101 +23,61 @@
     "id": "tutoring-rostov-1",
     "direction": "tutoring",
     "city": "Ростов-на-Дону",
-    "avito_id": 8294673096,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8294673096
   },
   {
     "id": "tutoring-makhachkala-1",
     "direction": "tutoring",
     "city": "Махачкала",
-    "avito_id": 7590820642,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 7590820642
   },
   {
     "id": "tutoring-ufa-1",
     "direction": "tutoring",
     "city": "Уфа",
-    "avito_id": 8312759442,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8312759442
   },
   {
     "id": "tutoring-novosibirsk-1",
     "direction": "tutoring",
     "city": "Новосибирск",
-    "avito_id": 8262775097,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8262775097
   },
   {
     "id": "tutoring-kazan-1",
     "direction": "tutoring",
     "city": "Казань",
-    "avito_id": 8294587560,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8294587560
   },
   {
     "id": "tutoring-ekaterinburg-1",
     "direction": "tutoring",
     "city": "Екатеринбург",
-    "avito_id": 8294423893,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8294423893
   },
   {
     "id": "tutoring-spb-1",
     "direction": "tutoring",
     "city": "Санкт-Петербург",
-    "avito_id": 7590759606,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 7590759606
   },
   {
     "id": "tutoring-moscow-1",
     "direction": "tutoring",
     "city": "Москва",
-    "avito_id": 7878766745,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 7878766745
   },
   {
     "id": "tutoring-nn-1",
     "direction": "tutoring",
     "city": "Нижний Новгород",
-    "avito_id": 8294315923,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8294315923
   },
   {
     "id": "tutoring-krasnoyarsk-1",
     "direction": "tutoring",
     "city": "Красноярск",
-    "avito_id": 8314005233,
-    "promo": {
-      "bid": 50,
-      "daily_limit": 100
-    }
+    "avito_id": 8314005233
   },
   {
     "id": "ai-lessons-makhachkala-1",
