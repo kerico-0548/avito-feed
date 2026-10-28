@@ -1,0 +1,74 @@
+{
+  "ml": {
+    "title": "Помощь Машинное обучение и Автоматизации",
+    "price": 700,
+    "fields": {
+      "Category": "Предложение услуг",
+      "ServiceType": "Деловые услуги",
+      "ServiceSubtype": "IT, дизайн, тексты",
+      "ServiceSubspecies": "ИИ-решения, нейросети",
+      "AIDirection": "Разработка и внедрение ИИ-решений в бизнес",
+      "WorkExperience": "4–7 лет",
+      "Consultations": "Есть",
+      "WorkWithContract": "Нет",
+      "Prepayment": "Нет",
+      "TakeUrgentOrders": "Да",
+      "Place": "Удалённо",
+      "WorkingWithAI": "Да"
+    }
+  },
+  "tutoring": {
+    "title": "Репетитор ЕГЭ по Информатике",
+    "price": 1500,
+    "fields": {
+      "Category": "Предложение услуг",
+      "ServiceType": "Обучение, курсы",
+      "ServiceSubtype": "Предметы школы и вуза",
+      "SubjectOrSpecialty": "Информатика",
+      "WorkExperience": "7–9 лет",
+      "Teacher": "Мужчина",
+      "TeacherEducation": "Есть",
+      "Place": "Удалённо",
+      "Format": "Онлайн с преподавателем",
+      "Classes": "Индивидуальные",
+      "Prepayment": "Нет"
+    }
+  },
+  "ai-lessons": {
+    "title": "Обучение Искусственному Интеллекту",
+    "price": 1500,
+    "fields": {
+      "Category": "Предложение услуг",
+      "ServiceType": "Обучение, курсы",
+      "ServiceSubtype": "Профессии и бизнес",
+      "Speciality": "IT, бизнес",
+      "Specialty": "Программирование",
+      "ForWhom": "Взрослые",
+      "WorkExperience": "7–9 лет",
+      "Teacher": "Мужчина",
+      "Place": "Удалённо",
+      "Format": "Онлайн с преподавателем",
+      "Classes": "Индивидуальные",
+      "Level": "Новички",
+      "WorkingWithAI": "Да"
+    }
+  },
+  "ai-course": {
+    "title": "Курс по Введению в Искусственный Интеллект",
+    "price": 2190,
+    "fields": {
+      "Category": "Предложение услуг",
+      "ServiceType": "Обучение, курсы",
+      "ServiceSubtype": "Профессии и бизнес",
+      "Speciality": "IT, бизнес",
+      "Specialty": "Программирование",
+      "ForWhom": "Взрослые",
+      "Place": "Удалённо",
+      "Format": "Лекция или вебинар в записи",
+      "DocumentAfterTraining": "Сертификат",
+      "CourseLasts": "Меньше месяца",
+      "Level": "Новички",
+      "WorkingWithAI": "Да"
+    }
+  }
+}
