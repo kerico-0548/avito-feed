@@ -62,5 +62,61 @@
       "Level": "Новички",
       "WorkingWithAI": "Да"
     }
+  },
+  "programming": {
+    "fields": {
+      "Category": "Предложение услуг",
+      "ServiceType": "Деловые услуги",
+      "ServiceSubtype": "IT, дизайн, тексты",
+      "ServiceSubspecies": "Программирование, настройка CRM",
+      "Specialty": "Программирование",
+      "WhatServices": [
+        "Разработка с нуля",
+        "Веб-разработка",
+        "Разработка десктоп-приложения",
+        "Тестирование или отладка",
+        "Оптимизация и рефакторинг кода",
+        "Автоматизация",
+        "Интеграция с внешними сервисами или API",
+        "Создание API"
+      ],
+      "Specialisation": "Фулстек",
+      "ProgrammingLanguages": [
+        "Python",
+        "JavaScript",
+        "C#"
+      ],
+      "Frameworks": [
+        "Django"
+      ],
+      "Protocols": [
+        "REST"
+      ],
+      "Languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "Database": [
+        "PostgreSQL",
+        "SQLite"
+      ],
+      "ComplexityOfProjects": [
+        "Простое приложение или скрипт",
+        "Проект средней сложности"
+      ],
+      "WorkExperience": "8–10 лет",
+      "Place": "Удалённо",
+      "WorkWith": [
+        "Физические лица",
+        "ИП",
+        "ООО"
+      ],
+      "WorkWithContract": "Нет",
+      "Consultations": "Есть",
+      "Prepayment": "Нет",
+      "TechnicalSupport": "Да",
+      "WorkingWithAI": "Да"
+    }
   }
 }

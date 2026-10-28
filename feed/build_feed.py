@@ -1,7 +1,10 @@
 """Собирает feed/avito.xml для Автозагрузки Авито.
 
 Список объявлений: feed/ads.json (id, direction, city, необязательно title, price,
-avito_id для привязки уже существующего объявления и date_begin в формате ГГГГ-ММ-ДД).
+avito_id для привязки уже существующего объявления, date_begin в формате ГГГГ-ММ-ДД,
+promo {"bid", "daily_limit"} для ручной цены продвижения (можно задать на всё направление
+в directions.json).
+Чтобы снять объявление и сохранить его историю: avito_id и date_begin в далёком будущем.
 Параметры категорий Авито по направлениям: feed/directions.json.
 Заголовок и цена по умолчанию: первые строки ads/<direction>/price.md
 («Заголовок на Авито:», «Цена в объявлении:»).
@@ -95,7 +98,16 @@ def main():
             fields["DateBegin"] = ad["date_begin"]
         x = "  <Ad>\n"
         for k, v in fields.items():
-            x += f"    <{k}>{html.escape(str(v))}</{k}>\n"
+            if isinstance(v, list):
+                opts = "".join(f"<Option>{html.escape(str(o))}</Option>" for o in v)
+                x += f"    <{k}>{opts}</{k}>\n"
+            else:
+                x += f"    <{k}>{html.escape(str(v))}</{k}>\n"
+        promo = ad.get("promo", cfg.get("promo"))
+        if promo:
+            x += ("    <Promo>Manual</Promo>\n    <PromoManualOptions><Item>"
+                  f"<Bid>{promo['bid']}</Bid><DailyLimit>{promo['daily_limit']}</DailyLimit>"
+                  "</Item></PromoManualOptions>\n")
         x += f"    <Description><![CDATA[{desc}]]></Description>\n    <Images>\n"
         for p in photos:
             x += f'      <Image url="{RAW}{p.relative_to(ROOT).as_posix()}"/>\n'
