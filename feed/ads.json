@@ -182,5 +182,12 @@
     "avito_id": 8262605254,
     "date_begin": "2030-01-01",
     "note": "снято: слабая конверсия"
+  },
+  {
+    "id": "programming-moscow-1",
+    "direction": "programming",
+    "city": "Москва",
+    "date_begin": "2030-01-01",
+    "note": "черновик на проверку: убрать date_begin после ок"
   }
 ]
