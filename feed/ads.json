@@ -149,5 +149,185 @@
     "city": "Москва",
     "date_begin": "2030-01-01",
     "note": "черновик на проверку: убрать date_begin после ок"
+  },
+  {
+    "id": "ml-omsk-m8479391558",
+    "direction": "ml",
+    "city": "Омск",
+    "avito_id": 8479391558
+  },
+  {
+    "id": "ai-lessons-ufa-m8421327183",
+    "direction": "ai-lessons",
+    "city": "Уфа",
+    "avito_id": 8421327183
+  },
+  {
+    "id": "ml-krasnodar-m8407722845",
+    "direction": "ml",
+    "city": "Краснодар",
+    "avito_id": 8407722845
+  },
+  {
+    "id": "ml-volgograd-m8406948441",
+    "direction": "ml",
+    "city": "Волгоград",
+    "avito_id": 8406948441
+  },
+  {
+    "id": "ai-lessons-nizhniy-novgorod-m8375790209",
+    "direction": "ai-lessons",
+    "city": "Нижний Новгород",
+    "avito_id": 8375790209
+  },
+  {
+    "id": "ml-chelyabinsk-m8374096868",
+    "direction": "ml",
+    "city": "Челябинск",
+    "avito_id": 8374096868
+  },
+  {
+    "id": "ml-kazan-m8349164915",
+    "direction": "ml",
+    "city": "Казань",
+    "avito_id": 8349164915
+  },
+  {
+    "id": "ml-voronezh-m8346775529",
+    "direction": "ml",
+    "city": "Воронеж",
+    "avito_id": 8346775529
+  },
+  {
+    "id": "ai-lessons-chelyabinsk-m8341491496",
+    "direction": "ai-lessons",
+    "city": "Челябинск",
+    "avito_id": 8341491496
+  },
+  {
+    "id": "ml-samara-m8341110771",
+    "direction": "ml",
+    "city": "Самара",
+    "avito_id": 8341110771
+  },
+  {
+    "id": "ml-perm-m8326627823",
+    "direction": "ml",
+    "city": "Пермь",
+    "avito_id": 8326627823
+  },
+  {
+    "id": "ml-ufa-m8326359140",
+    "direction": "ml",
+    "city": "Уфа",
+    "avito_id": 8326359140
+  },
+  {
+    "id": "ml-saratov-m8302238426",
+    "direction": "ml",
+    "city": "Саратов",
+    "avito_id": 8302238426
+  },
+  {
+    "id": "tutoring-krasnodar-m8294792978",
+    "direction": "tutoring",
+    "city": "Краснодар",
+    "avito_id": 8294792978
+  },
+  {
+    "id": "ml-ekaterinburg-m8294704382",
+    "direction": "ml",
+    "city": "Екатеринбург",
+    "avito_id": 8294704382
+  },
+  {
+    "id": "ml-rostov-na-donu-m8294581876",
+    "direction": "ml",
+    "city": "Ростов-на-Дону",
+    "avito_id": 8294581876
+  },
+  {
+    "id": "ml-krasnoyarsk-m8294566494",
+    "direction": "ml",
+    "city": "Красноярск",
+    "avito_id": 8294566494
+  },
+  {
+    "id": "ai-course-ekaterinburg-m8294479438",
+    "direction": "ai-course",
+    "city": "Екатеринбург",
+    "avito_id": 8294479438
+  },
+  {
+    "id": "ai-course-krasnodar-m8294169441",
+    "direction": "ai-course",
+    "city": "Краснодар",
+    "avito_id": 8294169441
+  },
+  {
+    "id": "ml-moskva-m8294130483",
+    "direction": "ml",
+    "city": "Москва",
+    "avito_id": 8294130483
+  },
+  {
+    "id": "ml-novosibirsk-m8284126947",
+    "direction": "ml",
+    "city": "Новосибирск",
+    "avito_id": 8284126947
+  },
+  {
+    "id": "ai-course-moskva-m8262748487",
+    "direction": "ai-course",
+    "city": "Москва",
+    "avito_id": 8262748487
+  },
+  {
+    "id": "ai-course-novosibirsk-m8262619718",
+    "direction": "ai-course",
+    "city": "Новосибирск",
+    "avito_id": 8262619718
+  },
+  {
+    "id": "ai-course-samara-m8262484491",
+    "direction": "ai-course",
+    "city": "Самара",
+    "avito_id": 8262484491
+  },
+  {
+    "id": "tutoring-chelyabinsk-m8262283953",
+    "direction": "tutoring",
+    "city": "Челябинск",
+    "avito_id": 8262283953
+  },
+  {
+    "id": "ai-course-mahachkala-m8134779395",
+    "direction": "ai-course",
+    "city": "Махачкала",
+    "avito_id": 8134779395
+  },
+  {
+    "id": "ai-course-sankt-peterburg-m8102845133",
+    "direction": "ai-course",
+    "city": "Санкт-Петербург",
+    "avito_id": 8102845133
+  },
+  {
+    "id": "ai-course-kazan-m8102498140",
+    "direction": "ai-course",
+    "city": "Казань",
+    "avito_id": 8102498140
+  },
+  {
+    "id": "ml-nizhniy-novgorod-m7878466953",
+    "direction": "ml",
+    "city": "Нижний Новгород",
+    "avito_id": 7878466953
+  },
+  {
+    "id": "ml-sankt-peterburg-m7878433256",
+    "direction": "ml",
+    "city": "Санкт-Петербург",
+    "avito_id": 7878433256
   }
 ]

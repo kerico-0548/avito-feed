@@ -26,7 +26,7 @@
 
 Работаю в **Jupyter Notebook / Google Colab**.
 
-Хотите не заказать, а научиться? Индивидуальные занятия по ML: 1800 ₽ за 60 минут.
+Хотите не заказать, а научиться? Индивидуальные занятия по ML: **1800 ₽ за 60 минут**.
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -46,12 +46,12 @@
 
 🧠 **ТЕХНОЛОГИИ**
 
-Python: NumPy, Pandas, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, Keras, TensorFlow
-Базы данных: SQLite, PostgreSQL
-API: FastAPI, Django
-Компьютерное зрение: OpenCV, YOLO
-Дашборды: Power BI, DataLens, Excel и LibreOffice с макросами
-Также: C++, C#, JavaScript, TypeScript, HTML, CSS, Git, Docker, Linux, LLM и AI API
+Python: **NumPy, Pandas**, **Matplotlib, Seaborn, Plotly**, **SciPy**, **Scikit-learn**, **Keras, TensorFlow**
+Базы данных: **SQLite, PostgreSQL**
+API: **FastAPI, Django**
+Компьютерное зрение: **OpenCV, YOLO**
+Дашборды: **Power BI, DataLens**, Excel и LibreOffice с макросами
+Также: **C++, C#, JavaScript, TypeScript, HTML, CSS**, **Git, Docker, Linux**, LLM и AI API
 
 ━━━━━━━━━━━━━━━━━━━━
 
