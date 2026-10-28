@@ -3,16 +3,16 @@
   <Ad>
     <Id>ml-help-tyumen-1</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -34,16 +34,16 @@
   <Ad>
     <Id>ml-makhachkala-1</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -65,16 +65,16 @@
   <Ad>
     <Id>ml-barnaul-1</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -97,17 +97,13 @@
     <Id>ai-lessons-ekaterinburg-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Екатеринбург</Address>
@@ -450,17 +446,13 @@
     <Id>ai-lessons-makhachkala-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Махачкала</Address>
@@ -484,17 +476,13 @@
     <Id>ai-lessons-moscow-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Москва</Address>
@@ -518,17 +506,13 @@
     <Id>ai-lessons-spb-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Санкт-Петербург</Address>
@@ -552,17 +536,13 @@
     <Id>ai-lessons-novosibirsk-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Новосибирск</Address>
@@ -586,17 +566,13 @@
     <Id>ai-lessons-kazan-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Казань</Address>
@@ -620,17 +596,13 @@
     <Id>ai-lessons-krasnoyarsk-1</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Красноярск</Address>
@@ -818,16 +790,16 @@
   <Ad>
     <Id>ml-omsk-m8479391558</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -851,17 +823,13 @@
     <Id>ai-lessons-ufa-m8421327183</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Уфа</Address>
@@ -884,16 +852,16 @@
   <Ad>
     <Id>ml-krasnodar-m8407722845</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -916,16 +884,16 @@
   <Ad>
     <Id>ml-volgograd-m8406948441</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -949,17 +917,13 @@
     <Id>ai-lessons-nizhniy-novgorod-m8375790209</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Нижний Новгород</Address>
@@ -982,16 +946,16 @@
   <Ad>
     <Id>ml-chelyabinsk-m8374096868</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1014,16 +978,16 @@
   <Ad>
     <Id>ml-kazan-m8349164915</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1046,16 +1010,16 @@
   <Ad>
     <Id>ml-voronezh-m8346775529</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1079,17 +1043,13 @@
     <Id>ai-lessons-chelyabinsk-m8341491496</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
-    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
-    <Speciality>IT, бизнес</Speciality>
-    <Specialty>Программирование</Specialty>
-    <ForWhom>Взрослые</ForWhom>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <SubjectOrSpecialty>Искусственный интеллект</SubjectOrSpecialty>
     <WorkExperience>7–9 лет</WorkExperience>
     <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
     <Format>Онлайн с преподавателем</Format>
     <Classes>Индивидуальные</Classes>
-    <Level>Новички</Level>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Обучение искусственному интеллекту</Title>
     <Price>1500</Price>
     <Address>Челябинск</Address>
@@ -1112,16 +1072,16 @@
   <Ad>
     <Id>ml-samara-m8341110771</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1144,16 +1104,16 @@
   <Ad>
     <Id>ml-perm-m8326627823</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1176,16 +1136,16 @@
   <Ad>
     <Id>ml-ufa-m8326359140</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1208,16 +1168,16 @@
   <Ad>
     <Id>ml-saratov-m8302238426</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1272,16 +1232,16 @@
   <Ad>
     <Id>ml-ekaterinburg-m8294704382</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1304,16 +1264,16 @@
   <Ad>
     <Id>ml-rostov-na-donu-m8294581876</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1336,16 +1296,16 @@
   <Ad>
     <Id>ml-krasnoyarsk-m8294566494</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1432,16 +1392,16 @@
   <Ad>
     <Id>ml-moskva-m8294130483</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1464,16 +1424,16 @@
   <Ad>
     <Id>ml-novosibirsk-m8284126947</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1720,16 +1680,16 @@
   <Ad>
     <Id>ml-nizhniy-novgorod-m7878466953</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>
@@ -1752,16 +1712,16 @@
   <Ad>
     <Id>ml-sankt-peterburg-m7878433256</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <WorkExperience>4–7 лет</WorkExperience>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Нет</WorkWithContract>
-    <Prepayment>Нет</Prepayment>
-    <TakeUrgentOrders>Да</TakeUrgentOrders>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Профессии и бизнес</ServiceSubtype>
+    <Speciality>IT, бизнес</Speciality>
+    <Specialty>Программирование</Specialty>
+    <ForWhom>Взрослые</ForWhom>
+    <WorkExperience>4–6 лет</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
     <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помощь Машинное обучение и Автоматизации</Title>
     <Price>700</Price>

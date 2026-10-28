@@ -2,16 +2,16 @@
   "ml": {
     "fields": {
       "Category": "Предложение услуг",
-      "ServiceType": "Деловые услуги",
-      "ServiceSubtype": "IT, дизайн, тексты",
-      "ServiceSubspecies": "ИИ-решения, нейросети",
-      "AIDirection": "Разработка и внедрение ИИ-решений в бизнес",
-      "WorkExperience": "4–7 лет",
-      "Consultations": "Есть",
-      "WorkWithContract": "Нет",
-      "Prepayment": "Нет",
-      "TakeUrgentOrders": "Да",
+      "ServiceType": "Обучение, курсы",
+      "ServiceSubtype": "Профессии и бизнес",
+      "Speciality": "IT, бизнес",
+      "Specialty": "Программирование",
+      "ForWhom": "Взрослые",
+      "WorkExperience": "4–6 лет",
+      "Teacher": "Мужчина",
       "Place": "Удалённо",
+      "Format": "Онлайн с преподавателем",
+      "Classes": "Индивидуальные",
       "WorkingWithAI": "Да"
     }
   },
@@ -34,17 +34,13 @@
     "fields": {
       "Category": "Предложение услуг",
       "ServiceType": "Обучение, курсы",
-      "ServiceSubtype": "Профессии и бизнес",
-      "Speciality": "IT, бизнес",
-      "Specialty": "Программирование",
-      "ForWhom": "Взрослые",
+      "ServiceSubtype": "Другое",
+      "SubjectOrSpecialty": "Искусственный интеллект",
       "WorkExperience": "7–9 лет",
       "Teacher": "Мужчина",
       "Place": "Удалённо",
       "Format": "Онлайн с преподавателем",
-      "Classes": "Индивидуальные",
-      "Level": "Новички",
-      "WorkingWithAI": "Да"
+      "Classes": "Индивидуальные"
     }
   },
   "ai-course": {
