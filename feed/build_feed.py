@@ -1,7 +1,9 @@
 """Собирает feed/avito.xml для Автозагрузки Авито.
 
 Список объявлений: feed/ads.json (id, direction, city, необязательно title и price).
-Параметры направлений: feed/directions.json.
+Параметры категорий Авито по направлениям: feed/directions.json.
+Заголовок и цена по умолчанию: первые строки ads/<direction>/price.md
+(«Заголовок на Авито:», «Цена в объявлении:»).
 Текст объявления: ads/<direction>/text.md, фото: ads/<direction>/photos/ (по имени, не больше 10).
 
 ВАЖНО: в режиме загрузки по ссылке Авито снимает объявление, которого нет в фиде.
@@ -42,6 +44,14 @@ def md_to_html(text):
     return "".join("<p>" + "<br>".join(fmt(x) for x in p) + "</p>" for p in paras)
 
 
+def read_price_md(path):
+    text = path.read_text(encoding="utf-8")
+    title = re.search(r"^Заголовок на Авито:\s*(.+)$", text, re.M)
+    price = re.search(r"^Цена в объявлении:\s*([\d\s]+)", text, re.M)
+    return (title.group(1).strip() if title else None,
+            int(re.sub(r"\s", "", price.group(1))) if price else None)
+
+
 def main():
     directions = json.loads((ROOT / "feed/directions.json").read_text(encoding="utf-8"))
     ads = json.loads((ROOT / "feed/ads.json").read_text(encoding="utf-8"))
@@ -56,6 +66,11 @@ def main():
             errors.append(f"{aid}: нет направления {d}")
             continue
         cfg = directions[d]
+        title, price = read_price_md(ROOT / "ads" / d / "price.md")
+        title, price = ad.get("title", title), ad.get("price", price)
+        if not title or not price:
+            errors.append(f"{aid}: нет заголовка или цены в price.md")
+            continue
         text_path = ROOT / "ads" / d / "text.md"
         if not text_path.exists():
             errors.append(f"{aid}: нет {text_path.relative_to(ROOT)}")
@@ -69,8 +84,8 @@ def main():
             errors.append(f"{aid}: нет фото")
 
         fields = {"Id": aid, **cfg["fields"],
-                  "Title": ad.get("title", cfg["title"]),
-                  "Price": str(ad.get("price", cfg["price"])),
+                  "Title": title,
+                  "Price": str(price),
                   "Address": ad["city"],
                   "ContactMethod": "По телефону и в сообщениях"}
         x = "  <Ad>\n"
