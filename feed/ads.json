@@ -119,14 +119,12 @@
     "id": "ai-course-grozny-1",
     "direction": "ai-course",
     "city": "Грозный",
-    "avito_id": 8262520925,
-    "date_begin": "2026-11-07"
+    "avito_id": 8262520925
   },
   {
     "id": "ai-course-krasnoyarsk-1",
     "direction": "ai-course",
     "city": "Красноярск",
-    "avito_id": 8341501688,
-    "date_begin": "2026-11-07"
+    "avito_id": 8341501688
   }
 ]
