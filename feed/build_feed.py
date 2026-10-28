@@ -2,6 +2,7 @@
 
 Список объявлений: feed/ads.json (id, direction, city, необязательно title, price,
 avito_id для привязки уже существующего объявления, date_begin в формате ГГГГ-ММ-ДД,
+price_list [[ServiceName, ServiceTitle, цена, "Да"/"Нет", ServicePriceType], ...],
 promo {"bid", "daily_limit"} для ручной цены продвижения (можно задать на всё направление
 в directions.json).
 Чтобы снять объявление и сохранить его историю: avito_id и date_begin в далёком будущем.
@@ -103,6 +104,18 @@ def main():
                 x += f"    <{k}>{opts}</{k}>\n"
             else:
                 x += f"    <{k}>{html.escape(str(v))}</{k}>\n"
+        price_list = ad.get("price_list", cfg.get("price_list"))
+        if price_list:
+            x += "    <PriceList>\n"
+            for name, title, price, starting, ptype in price_list:
+                x += ("      <Service>"
+                      f"<ServiceName>{html.escape(name)}</ServiceName>"
+                      f"<ServiceTitle>{html.escape(title)}</ServiceTitle>"
+                      f"<ServicePrice>{price}</ServicePrice>"
+                      f"<ServiceStartingPrice>{starting}</ServiceStartingPrice>"
+                      f"<ServicePriceType>{html.escape(ptype)}</ServicePriceType>"
+                      "</Service>\n")
+            x += "    </PriceList>\n"
         promo = ad.get("promo", cfg.get("promo"))
         if promo:
             x += ("    <Promo>Manual</Promo>\n    <PromoManualOptions><Item>"
