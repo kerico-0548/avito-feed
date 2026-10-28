@@ -1,3 +1,132 @@
 [
-  {"id": "ml-help-tyumen-1", "direction": "ml", "city": "Тюмень"}
+  {
+    "id": "ml-help-tyumen-1",
+    "direction": "ml",
+    "city": "Тюмень"
+  },
+  {
+    "id": "ml-makhachkala-1",
+    "direction": "ml",
+    "city": "Махачкала"
+  },
+  {
+    "id": "ml-barnaul-1",
+    "direction": "ml",
+    "city": "Барнаул"
+  },
+  {
+    "id": "ai-lessons-ekaterinburg-1",
+    "direction": "ai-lessons",
+    "city": "Екатеринбург"
+  },
+  {
+    "id": "tutoring-rostov-1",
+    "direction": "tutoring",
+    "city": "Ростов-на-Дону",
+    "avito_id": 8294673096
+  },
+  {
+    "id": "tutoring-makhachkala-1",
+    "direction": "tutoring",
+    "city": "Махачкала",
+    "avito_id": 7590820642
+  },
+  {
+    "id": "tutoring-ufa-1",
+    "direction": "tutoring",
+    "city": "Уфа",
+    "avito_id": 8312759442
+  },
+  {
+    "id": "tutoring-novosibirsk-1",
+    "direction": "tutoring",
+    "city": "Новосибирск",
+    "avito_id": 8262775097
+  },
+  {
+    "id": "tutoring-kazan-1",
+    "direction": "tutoring",
+    "city": "Казань",
+    "avito_id": 8294587560
+  },
+  {
+    "id": "tutoring-ekaterinburg-1",
+    "direction": "tutoring",
+    "city": "Екатеринбург",
+    "avito_id": 8294423893
+  },
+  {
+    "id": "tutoring-spb-1",
+    "direction": "tutoring",
+    "city": "Санкт-Петербург",
+    "avito_id": 7590759606
+  },
+  {
+    "id": "tutoring-moscow-1",
+    "direction": "tutoring",
+    "city": "Москва",
+    "avito_id": 7878766745
+  },
+  {
+    "id": "tutoring-nn-1",
+    "direction": "tutoring",
+    "city": "Нижний Новгород",
+    "avito_id": 8294315923
+  },
+  {
+    "id": "tutoring-krasnoyarsk-1",
+    "direction": "tutoring",
+    "city": "Красноярск",
+    "avito_id": 8314005233
+  },
+  {
+    "id": "ai-lessons-makhachkala-1",
+    "direction": "ai-lessons",
+    "city": "Махачкала",
+    "avito_id": 8276118506
+  },
+  {
+    "id": "ai-lessons-moscow-1",
+    "direction": "ai-lessons",
+    "city": "Москва",
+    "avito_id": 8250998203
+  },
+  {
+    "id": "ai-lessons-spb-1",
+    "direction": "ai-lessons",
+    "city": "Санкт-Петербург",
+    "avito_id": 8421018170
+  },
+  {
+    "id": "ai-lessons-novosibirsk-1",
+    "direction": "ai-lessons",
+    "city": "Новосибирск",
+    "avito_id": 8344654988
+  },
+  {
+    "id": "ai-lessons-kazan-1",
+    "direction": "ai-lessons",
+    "city": "Казань",
+    "avito_id": 8349034237
+  },
+  {
+    "id": "ai-lessons-krasnoyarsk-1",
+    "direction": "ai-lessons",
+    "city": "Красноярск",
+    "avito_id": 8421373898
+  },
+  {
+    "id": "ai-course-grozny-1",
+    "direction": "ai-course",
+    "city": "Грозный",
+    "avito_id": 8262520925,
+    "date_begin": "2026-11-07"
+  },
+  {
+    "id": "ai-course-krasnoyarsk-1",
+    "direction": "ai-course",
+    "city": "Красноярск",
+    "avito_id": 8341501688,
+    "date_begin": "2026-11-07"
+  }
 ]

@@ -1,6 +1,7 @@
 """Собирает feed/avito.xml для Автозагрузки Авито.
 
-Список объявлений: feed/ads.json (id, direction, city, необязательно title и price).
+Список объявлений: feed/ads.json (id, direction, city, необязательно title, price,
+avito_id для привязки уже существующего объявления и date_begin в формате ГГГГ-ММ-ДД).
 Параметры категорий Авито по направлениям: feed/directions.json.
 Заголовок и цена по умолчанию: первые строки ads/<direction>/price.md
 («Заголовок на Авито:», «Цена в объявлении:»).
@@ -88,6 +89,10 @@ def main():
                   "Price": str(price),
                   "Address": ad["city"],
                   "ContactMethod": "По телефону и в сообщениях"}
+        if "avito_id" in ad:
+            fields["AvitoId"] = ad["avito_id"]
+        if "date_begin" in ad:
+            fields["DateBegin"] = ad["date_begin"]
         x = "  <Ad>\n"
         for k, v in fields.items():
             x += f"    <{k}>{html.escape(str(v))}</{k}>\n"
