@@ -14,7 +14,7 @@
       "Classes": "Индивидуальные",
       "WorkingWithAI": "Да"
     },
-    "price_list": [
+    "price_list_pending": [
       [
         "Своя услуга",
         "Базовые задачи, в час",
@@ -59,7 +59,7 @@
       "Classes": "Индивидуальные",
       "Prepayment": "Нет"
     },
-    "price_list": [
+    "price_list_pending": [
       [
         "Подготовка к ЕГЭ",
         "",
@@ -94,7 +94,7 @@
       "Format": "Онлайн с преподавателем",
       "Classes": "Индивидуальные"
     },
-    "price_list": [
+    "price_list_pending": [
       [
         "Своя услуга",
         "Занятие 30 минут",
@@ -140,7 +140,7 @@
       "Level": "Новички",
       "WorkingWithAI": "Да"
     },
-    "price_list": [
+    "price_list_pending": [
       [
         "Своя услуга",
         "Курс «Введение в ИИ» на Stepik",
