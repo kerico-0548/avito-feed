@@ -178,7 +178,9 @@
   {
     "id": "programming-kazan-1",
     "direction": "programming",
-    "city": "Казань"
+    "city": "Казань",
+    "date_begin": "2030-01-01",
+    "note": "снято: заблокировано как дубль старого казанского, Казань не нужна"
   },
   {
     "id": "programming-moskva-1",

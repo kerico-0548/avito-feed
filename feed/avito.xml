@@ -1064,7 +1064,7 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Казань</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -1105,10 +1105,11 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Казань</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <DateBegin>2030-01-01</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Разбор задачи или кода, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Сложные задачи и проекты, в час</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
@@ -1145,7 +1146,7 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Москва</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -1185,7 +1186,7 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Санкт-Петербург</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -1225,7 +1226,7 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Новосибирск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -1265,7 +1266,7 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Екатеринбург</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -1305,7 +1306,7 @@
     <Classes>Индивидуальные</Classes>
     <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Title>Помогу с программированием: Python, C++, Java</Title>
+    <Title>Помощь Студентам Программирование БД</Title>
     <Price>700</Price>
     <Address>Нижний Новгород</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
