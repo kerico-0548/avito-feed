@@ -80,6 +80,31 @@
     "avito_id": 8314005233
   },
   {
+    "id": "tutoring-samara-1",
+    "direction": "tutoring",
+    "city": "Самара"
+  },
+  {
+    "id": "tutoring-omsk-1",
+    "direction": "tutoring",
+    "city": "Омск"
+  },
+  {
+    "id": "tutoring-voronezh-1",
+    "direction": "tutoring",
+    "city": "Воронеж"
+  },
+  {
+    "id": "tutoring-perm-1",
+    "direction": "tutoring",
+    "city": "Пермь"
+  },
+  {
+    "id": "tutoring-volgograd-1",
+    "direction": "tutoring",
+    "city": "Волгоград"
+  },
+  {
     "id": "ai-lessons-makhachkala-1",
     "direction": "ai-lessons",
     "city": "Махачкала",
