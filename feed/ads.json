@@ -386,5 +386,320 @@
     "direction": "ml",
     "city": "Санкт-Петербург",
     "avito_id": 7878433256
+  },
+  {
+    "id": "tutoring-saratov-1",
+    "direction": "tutoring",
+    "city": "Саратов"
+  },
+  {
+    "id": "tutoring-tyumen-1",
+    "direction": "tutoring",
+    "city": "Тюмень"
+  },
+  {
+    "id": "tutoring-togliatti-1",
+    "direction": "tutoring",
+    "city": "Тольятти"
+  },
+  {
+    "id": "ai-course-ufa-1",
+    "direction": "ai-course",
+    "city": "Уфа"
+  },
+  {
+    "id": "ai-course-chelyabinsk-1",
+    "direction": "ai-course",
+    "city": "Челябинск"
+  },
+  {
+    "id": "ai-course-omsk-1",
+    "direction": "ai-course",
+    "city": "Омск"
+  },
+  {
+    "id": "ai-course-voronezh-1",
+    "direction": "ai-course",
+    "city": "Воронеж"
+  },
+  {
+    "id": "ai-course-perm-1",
+    "direction": "ai-course",
+    "city": "Пермь"
+  },
+  {
+    "id": "ai-course-volgograd-1",
+    "direction": "ai-course",
+    "city": "Волгоград"
+  },
+  {
+    "id": "ai-course-saratov-1",
+    "direction": "ai-course",
+    "city": "Саратов"
+  },
+  {
+    "id": "ai-course-tyumen-1",
+    "direction": "ai-course",
+    "city": "Тюмень"
+  },
+  {
+    "id": "ai-course-togliatti-1",
+    "direction": "ai-course",
+    "city": "Тольятти"
+  },
+  {
+    "id": "ai-course-barnaul-1",
+    "direction": "ai-course",
+    "city": "Барнаул"
+  },
+  {
+    "id": "ai-course-izhevsk-1",
+    "direction": "ai-course",
+    "city": "Ижевск"
+  },
+  {
+    "id": "ai-course-khabarovsk-1",
+    "direction": "ai-course",
+    "city": "Хабаровск"
+  },
+  {
+    "id": "ai-course-ulyanovsk-1",
+    "direction": "ai-course",
+    "city": "Ульяновск"
+  },
+  {
+    "id": "ai-course-irkutsk-1",
+    "direction": "ai-course",
+    "city": "Иркутск"
+  },
+  {
+    "id": "ai-course-vladivostok-1",
+    "direction": "ai-course",
+    "city": "Владивосток"
+  },
+  {
+    "id": "ai-lessons-krasnodar-1",
+    "direction": "ai-lessons",
+    "city": "Краснодар"
+  },
+  {
+    "id": "ai-lessons-samara-1",
+    "direction": "ai-lessons",
+    "city": "Самара"
+  },
+  {
+    "id": "ai-lessons-rostov-1",
+    "direction": "ai-lessons",
+    "city": "Ростов-на-Дону"
+  },
+  {
+    "id": "ai-lessons-omsk-1",
+    "direction": "ai-lessons",
+    "city": "Омск"
+  },
+  {
+    "id": "ai-lessons-voronezh-1",
+    "direction": "ai-lessons",
+    "city": "Воронеж"
+  },
+  {
+    "id": "ai-lessons-perm-1",
+    "direction": "ai-lessons",
+    "city": "Пермь"
+  },
+  {
+    "id": "ai-lessons-volgograd-1",
+    "direction": "ai-lessons",
+    "city": "Волгоград"
+  },
+  {
+    "id": "ai-lessons-saratov-1",
+    "direction": "ai-lessons",
+    "city": "Саратов"
+  },
+  {
+    "id": "ai-lessons-tyumen-1",
+    "direction": "ai-lessons",
+    "city": "Тюмень"
+  },
+  {
+    "id": "ai-lessons-togliatti-1",
+    "direction": "ai-lessons",
+    "city": "Тольятти"
+  },
+  {
+    "id": "ai-lessons-barnaul-1",
+    "direction": "ai-lessons",
+    "city": "Барнаул"
+  },
+  {
+    "id": "ai-lessons-izhevsk-1",
+    "direction": "ai-lessons",
+    "city": "Ижевск"
+  },
+  {
+    "id": "ai-lessons-khabarovsk-1",
+    "direction": "ai-lessons",
+    "city": "Хабаровск"
+  },
+  {
+    "id": "ai-lessons-ulyanovsk-1",
+    "direction": "ai-lessons",
+    "city": "Ульяновск"
+  },
+  {
+    "id": "ai-lessons-irkutsk-1",
+    "direction": "ai-lessons",
+    "city": "Иркутск"
+  },
+  {
+    "id": "ml-togliatti-1",
+    "direction": "ml",
+    "city": "Тольятти"
+  },
+  {
+    "id": "ml-izhevsk-1",
+    "direction": "ml",
+    "city": "Ижевск"
+  },
+  {
+    "id": "ml-khabarovsk-1",
+    "direction": "ml",
+    "city": "Хабаровск"
+  },
+  {
+    "id": "ml-ulyanovsk-1",
+    "direction": "ml",
+    "city": "Ульяновск"
+  },
+  {
+    "id": "ml-irkutsk-1",
+    "direction": "ml",
+    "city": "Иркутск"
+  },
+  {
+    "id": "ml-vladivostok-1",
+    "direction": "ml",
+    "city": "Владивосток"
+  },
+  {
+    "id": "ml-yaroslavl-1",
+    "direction": "ml",
+    "city": "Ярославль"
+  },
+  {
+    "id": "ml-stavropol-1",
+    "direction": "ml",
+    "city": "Ставрополь"
+  },
+  {
+    "id": "ml-chelny-1",
+    "direction": "ml",
+    "city": "Набережные Челны"
+  },
+  {
+    "id": "ml-tomsk-1",
+    "direction": "ml",
+    "city": "Томск"
+  },
+  {
+    "id": "programming-krasnoyarsk-1",
+    "direction": "programming",
+    "city": "Красноярск"
+  },
+  {
+    "id": "programming-chelyabinsk-1",
+    "direction": "programming",
+    "city": "Челябинск"
+  },
+  {
+    "id": "programming-ufa-1",
+    "direction": "programming",
+    "city": "Уфа"
+  },
+  {
+    "id": "programming-krasnodar-1",
+    "direction": "programming",
+    "city": "Краснодар"
+  },
+  {
+    "id": "programming-samara-1",
+    "direction": "programming",
+    "city": "Самара"
+  },
+  {
+    "id": "programming-rostov-1",
+    "direction": "programming",
+    "city": "Ростов-на-Дону"
+  },
+  {
+    "id": "programming-omsk-1",
+    "direction": "programming",
+    "city": "Омск"
+  },
+  {
+    "id": "programming-voronezh-1",
+    "direction": "programming",
+    "city": "Воронеж"
+  },
+  {
+    "id": "programming-perm-1",
+    "direction": "programming",
+    "city": "Пермь"
+  },
+  {
+    "id": "programming-volgograd-1",
+    "direction": "programming",
+    "city": "Волгоград"
+  },
+  {
+    "id": "programming-saratov-1",
+    "direction": "programming",
+    "city": "Саратов"
+  },
+  {
+    "id": "programming-tyumen-1",
+    "direction": "programming",
+    "city": "Тюмень"
+  },
+  {
+    "id": "programming-togliatti-1",
+    "direction": "programming",
+    "city": "Тольятти"
+  },
+  {
+    "id": "programming-makhachkala-1",
+    "direction": "programming",
+    "city": "Махачкала"
+  },
+  {
+    "id": "programming-barnaul-1",
+    "direction": "programming",
+    "city": "Барнаул"
+  },
+  {
+    "id": "programming-izhevsk-1",
+    "direction": "programming",
+    "city": "Ижевск"
+  },
+  {
+    "id": "programming-khabarovsk-1",
+    "direction": "programming",
+    "city": "Хабаровск"
+  },
+  {
+    "id": "programming-ulyanovsk-1",
+    "direction": "programming",
+    "city": "Ульяновск"
+  },
+  {
+    "id": "programming-irkutsk-1",
+    "direction": "programming",
+    "city": "Иркутск"
+  },
+  {
+    "id": "programming-vladivostok-1",
+    "direction": "programming",
+    "city": "Владивосток"
   }
 ]
