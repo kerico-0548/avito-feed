@@ -146,9 +146,7 @@
   {
     "id": "programming-moscow-1",
     "direction": "programming",
-    "city": "Москва",
-    "date_begin": "2030-01-01",
-    "note": "черновик на проверку"
+    "city": "Москва"
   },
   {
     "id": "ml-omsk-m8479391558",
