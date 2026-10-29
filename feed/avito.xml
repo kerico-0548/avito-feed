@@ -870,26 +870,20 @@
   <Ad>
     <Id>programming-moscow-1</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
-    <Specialty>Программирование</Specialty>
-    <WhatServices><Option>Консультации по программированию</Option><Option>Обучение программированию</Option><Option>Тестирование или отладка</Option><Option>Оптимизация и рефакторинг кода</Option><Option>Разработка с нуля</Option><Option>Веб-разработка</Option><Option>Разработка десктоп-приложения</Option><Option>Инструменты для анализа данных</Option><Option>Автоматизация</Option><Option>Интеграция с внешними сервисами или API</Option><Option>Создание API</Option></WhatServices>
-    <Specialisation>Фулстек</Specialisation>
-    <ProgrammingLanguages><Option>Python</Option><Option>Java</Option><Option>JavaScript</Option><Option>C#</Option></ProgrammingLanguages>
-    <Frameworks><Option>Django</Option></Frameworks>
-    <Protocols><Option>REST</Option></Protocols>
-    <Languages><Option>HTML</Option><Option>CSS</Option><Option>JavaScript</Option></Languages>
-    <Database><Option>MySQL</Option><Option>PostgreSQL</Option><Option>SQLite</Option></Database>
-    <ComplexityOfProjects><Option>Простое приложение или скрипт</Option><Option>Проект средней сложности</Option></ComplexityOfProjects>
-    <WorkExperience>8–10 лет</WorkExperience>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Помощь в оформлении работ</ServiceSubtype>
+    <TypeOfWorkInTraining><Option>Студенческие</Option><Option>Школьные</Option></TypeOfWorkInTraining>
+    <Disciplines><Option>Информатика</Option><Option>Технические и инженерные науки</Option><Option>Математические науки</Option></Disciplines>
+    <DesignStandard><Option>ГОСТ</Option><Option>Методические указания вуза</Option></DesignStandard>
+    <FreeImprovements>Да</FreeImprovements>
+    <WorkCompletionTime>1—2 дня</WorkCompletionTime>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Teacher>Мужчина</Teacher>
     <Place>Удалённо</Place>
-    <WorkWith><Option>Физические лица</Option><Option>ИП</Option><Option>ООО</Option></WorkWith>
+    <Format>Онлайн с преподавателем</Format>
+    <Classes>Индивидуальные</Classes>
+    <PaymentMethod>Поэтапная оплата</PaymentMethod>
     <WorkWithContract>Нет</WorkWithContract>
-    <Consultations>Есть</Consultations>
-    <Prepayment>Нет</Prepayment>
-    <TechnicalSupport>Да</TechnicalSupport>
-    <WorkingWithAI>Да</WorkingWithAI>
     <Title>Помогу с программированием: Python, C++, Java</Title>
     <Price>700</Price>
     <Address>Казань</Address>
