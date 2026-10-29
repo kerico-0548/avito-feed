@@ -153,62 +153,30 @@
   "programming": {
     "fields": {
       "Category": "Предложение услуг",
-      "ServiceType": "Деловые услуги",
-      "ServiceSubtype": "IT, дизайн, тексты",
-      "ServiceSubspecies": "Программирование, настройка CRM",
-      "Specialty": "Программирование",
-      "WhatServices": [
-        "Консультации по программированию",
-        "Обучение программированию",
-        "Тестирование или отладка",
-        "Оптимизация и рефакторинг кода",
-        "Разработка с нуля",
-        "Веб-разработка",
-        "Разработка десктоп-приложения",
-        "Инструменты для анализа данных",
-        "Автоматизация",
-        "Интеграция с внешними сервисами или API",
-        "Создание API"
+      "ServiceType": "Обучение, курсы",
+      "ServiceSubtype": "Помощь в оформлении работ",
+      "TypeOfWorkInTraining": [
+        "Студенческие",
+        "Школьные"
       ],
-      "Specialisation": "Фулстек",
-      "ProgrammingLanguages": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "C#"
+      "Disciplines": [
+        "Информатика",
+        "Технические и инженерные науки",
+        "Математические науки"
       ],
-      "Frameworks": [
-        "Django"
+      "DesignStandard": [
+        "ГОСТ",
+        "Методические указания вуза"
       ],
-      "Protocols": [
-        "REST"
-      ],
-      "Languages": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "Database": [
-        "MySQL",
-        "PostgreSQL",
-        "SQLite"
-      ],
-      "ComplexityOfProjects": [
-        "Простое приложение или скрипт",
-        "Проект средней сложности"
-      ],
-      "WorkExperience": "8–10 лет",
+      "FreeImprovements": "Да",
+      "WorkCompletionTime": "1—2 дня",
+      "WorkExperience": "10 лет и больше",
+      "Teacher": "Мужчина",
       "Place": "Удалённо",
-      "WorkWith": [
-        "Физические лица",
-        "ИП",
-        "ООО"
-      ],
-      "WorkWithContract": "Нет",
-      "Consultations": "Есть",
-      "Prepayment": "Нет",
-      "TechnicalSupport": "Да",
-      "WorkingWithAI": "Да"
+      "Format": "Онлайн с преподавателем",
+      "Classes": "Индивидуальные",
+      "PaymentMethod": "Поэтапная оплата",
+      "WorkWithContract": "Нет"
     },
     "price_list": [
       [
