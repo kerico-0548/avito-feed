@@ -156,6 +156,31 @@
     "city": "Казань"
   },
   {
+    "id": "programming-moskva-1",
+    "direction": "programming",
+    "city": "Москва"
+  },
+  {
+    "id": "programming-spb-1",
+    "direction": "programming",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "id": "programming-novosibirsk-1",
+    "direction": "programming",
+    "city": "Новосибирск"
+  },
+  {
+    "id": "programming-ekaterinburg-1",
+    "direction": "programming",
+    "city": "Екатеринбург"
+  },
+  {
+    "id": "programming-nn-1",
+    "direction": "programming",
+    "city": "Нижний Новгород"
+  },
+  {
     "id": "ml-omsk-m8479391558",
     "direction": "ml",
     "city": "Омск",
