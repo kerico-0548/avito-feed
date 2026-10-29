@@ -146,6 +146,13 @@
   {
     "id": "programming-moscow-1",
     "direction": "programming",
+    "city": "Казань",
+    "date_begin": "2030-01-01",
+    "note": "снято: отклонено в IT-категории, категорию у существующего объявления Авито не меняет"
+  },
+  {
+    "id": "programming-kazan-1",
+    "direction": "programming",
     "city": "Казань"
   },
   {
