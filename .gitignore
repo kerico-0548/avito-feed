@@ -1,0 +1,10 @@
+# Credentials and private local diagnostics
+.env
+.env.*
+# Local setup notes can contain copied credentials
+/*.txt
+.local/
+__pycache__/
+*.pyc
+.venv/
+venv/
