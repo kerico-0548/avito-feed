@@ -2,22 +2,34 @@
   {
     "id": "ml-help-tyumen-1",
     "direction": "ml",
-    "city": "Тюмень"
+    "city": "Тюмень",
+    "avito_id": 8543861363,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-makhachkala-2",
     "direction": "ml",
-    "city": "Махачкала"
+    "city": "Махачкала",
+    "avito_id": 8398370668,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-barnaul-1",
     "direction": "ml",
-    "city": "Барнаул"
+    "city": "Барнаул",
+    "avito_id": 8517680962,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-ekaterinburg-1",
     "direction": "ai-lessons",
-    "city": "Екатеринбург"
+    "city": "Екатеринбург",
+    "avito_id": 8372654532,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "tutoring-rostov-1",
@@ -82,75 +94,96 @@
   {
     "id": "tutoring-samara-1",
     "direction": "tutoring",
-    "city": "Самара"
+    "city": "Самара",
+    "avito_id": 8437094817
   },
   {
     "id": "tutoring-omsk-1",
     "direction": "tutoring",
-    "city": "Омск"
+    "city": "Омск",
+    "avito_id": 8360059307
   },
   {
     "id": "tutoring-voronezh-1",
     "direction": "tutoring",
-    "city": "Воронеж"
+    "city": "Воронеж",
+    "avito_id": 8491637725
   },
   {
     "id": "tutoring-perm-1",
     "direction": "tutoring",
-    "city": "Пермь"
+    "city": "Пермь",
+    "avito_id": 8347643108
   },
   {
     "id": "tutoring-volgograd-1",
     "direction": "tutoring",
-    "city": "Волгоград"
+    "city": "Волгоград",
+    "avito_id": 8577474886
   },
   {
     "id": "ai-lessons-makhachkala-1",
     "direction": "ai-lessons",
     "city": "Махачкала",
-    "avito_id": 8276118506
+    "avito_id": 8276118506,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-moscow-1",
     "direction": "ai-lessons",
     "city": "Москва",
-    "avito_id": 8250998203
+    "avito_id": 8250998203,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-spb-1",
     "direction": "ai-lessons",
     "city": "Санкт-Петербург",
-    "avito_id": 8421018170
+    "avito_id": 8421018170,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-novosibirsk-1",
     "direction": "ai-lessons",
     "city": "Новосибирск",
-    "avito_id": 8344654988
+    "avito_id": 8344654988,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-kazan-1",
     "direction": "ai-lessons",
     "city": "Казань",
-    "avito_id": 8349034237
+    "avito_id": 8349034237,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-krasnoyarsk-1",
     "direction": "ai-lessons",
     "city": "Красноярск",
-    "avito_id": 8421373898
+    "avito_id": 8421373898,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-grozny-1",
     "direction": "ai-course",
     "city": "Грозный",
-    "avito_id": 8262520925
+    "avito_id": 8262520925,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-krasnoyarsk-1",
     "direction": "ai-course",
     "city": "Красноярск",
-    "avito_id": 8341501688
+    "avito_id": 8341501688,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-rostov-off",
@@ -172,8 +205,8 @@
     "id": "programming-moscow-1",
     "direction": "programming",
     "city": "Казань",
-    "date_begin": "2030-01-01",
-    "note": "снято: отклонено в IT-категории, категорию у существующего объявления Авито не меняет"
+    "note": "восстановление по запросу владельца 11.11.2026",
+    "avito_id": 8437154025
   },
   {
     "id": "programming-kazan-1",
@@ -185,39 +218,48 @@
   {
     "id": "programming-moskva-1",
     "direction": "programming",
-    "city": "Москва"
+    "city": "Москва",
+    "avito_id": 8491135082
   },
   {
     "id": "programming-spb-1",
     "direction": "programming",
-    "city": "Санкт-Петербург"
+    "city": "Санкт-Петербург",
+    "avito_id": 8463607590
   },
   {
     "id": "programming-novosibirsk-1",
     "direction": "programming",
-    "city": "Новосибирск"
+    "city": "Новосибирск",
+    "avito_id": 8499284252
   },
   {
     "id": "programming-ekaterinburg-1",
     "direction": "programming",
-    "city": "Екатеринбург"
+    "city": "Екатеринбург",
+    "avito_id": 8577206412
   },
   {
     "id": "programming-nn-1",
     "direction": "programming",
-    "city": "Нижний Новгород"
+    "city": "Нижний Новгород",
+    "avito_id": 8370714313
   },
   {
     "id": "ml-omsk-m8479391558",
     "direction": "ml",
     "city": "Омск",
-    "avito_id": 8479391558
+    "avito_id": 8479391558,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-ufa-m8421327183",
     "direction": "ai-lessons",
     "city": "Уфа",
-    "avito_id": 8421327183
+    "avito_id": 8421327183,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-krasnodar-m8407722845",
@@ -229,13 +271,17 @@
     "id": "ml-volgograd-m8406948441",
     "direction": "ml",
     "city": "Волгоград",
-    "avito_id": 8406948441
+    "avito_id": 8406948441,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-nizhniy-novgorod-m8375790209",
     "direction": "ai-lessons",
     "city": "Нижний Новгород",
-    "avito_id": 8375790209
+    "avito_id": 8375790209,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-chelyabinsk-m8374096868",
@@ -253,25 +299,33 @@
     "id": "ml-voronezh-m8346775529",
     "direction": "ml",
     "city": "Воронеж",
-    "avito_id": 8346775529
+    "avito_id": 8346775529,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-chelyabinsk-m8341491496",
     "direction": "ai-lessons",
     "city": "Челябинск",
-    "avito_id": 8341491496
+    "avito_id": 8341491496,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-samara-m8341110771",
     "direction": "ml",
     "city": "Самара",
-    "avito_id": 8341110771
+    "avito_id": 8341110771,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-perm-m8326627823",
     "direction": "ml",
     "city": "Пермь",
-    "avito_id": 8326627823
+    "avito_id": 8326627823,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-ufa-m8326359140",
@@ -283,7 +337,9 @@
     "id": "ml-saratov-m8302238426",
     "direction": "ml",
     "city": "Саратов",
-    "avito_id": 8302238426
+    "avito_id": 8302238426,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "tutoring-krasnodar-m8294792978",
@@ -301,7 +357,9 @@
     "id": "ml-rostov-na-donu-m8294581876",
     "direction": "ml",
     "city": "Ростов-на-Дону",
-    "avito_id": 8294581876
+    "avito_id": 8294581876,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-krasnoyarsk-m8294566494",
@@ -313,13 +371,17 @@
     "id": "ai-course-ekaterinburg-m8294479438",
     "direction": "ai-course",
     "city": "Екатеринбург",
-    "avito_id": 8294479438
+    "avito_id": 8294479438,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-krasnodar-m8294169441",
     "direction": "ai-course",
     "city": "Краснодар",
-    "avito_id": 8294169441
+    "avito_id": 8294169441,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-moskva-m8294130483",
@@ -337,19 +399,25 @@
     "id": "ai-course-moskva-m8262748487",
     "direction": "ai-course",
     "city": "Москва",
-    "avito_id": 8262748487
+    "avito_id": 8262748487,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-novosibirsk-m8262619718",
     "direction": "ai-course",
     "city": "Новосибирск",
-    "avito_id": 8262619718
+    "avito_id": 8262619718,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-samara-m8262484491",
     "direction": "ai-course",
     "city": "Самара",
-    "avito_id": 8262484491
+    "avito_id": 8262484491,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "tutoring-chelyabinsk-m8262283953",
@@ -361,19 +429,25 @@
     "id": "ai-course-mahachkala-m8134779395",
     "direction": "ai-course",
     "city": "Махачкала",
-    "avito_id": 8134779395
+    "avito_id": 8134779395,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-sankt-peterburg-m8102845133",
     "direction": "ai-course",
     "city": "Санкт-Петербург",
-    "avito_id": 8102845133
+    "avito_id": 8102845133,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-kazan-m8102498140",
     "direction": "ai-course",
     "city": "Казань",
-    "avito_id": 8102498140
+    "avito_id": 8102498140,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-nizhniy-novgorod-m7878466953",
@@ -390,316 +464,599 @@
   {
     "id": "tutoring-saratov-1",
     "direction": "tutoring",
-    "city": "Саратов"
+    "city": "Саратов",
+    "avito_id": 8491675631
   },
   {
     "id": "tutoring-tyumen-1",
     "direction": "tutoring",
-    "city": "Тюмень"
+    "city": "Тюмень",
+    "avito_id": 8463208523
   },
   {
     "id": "tutoring-togliatti-1",
     "direction": "tutoring",
-    "city": "Тольятти"
+    "city": "Тольятти",
+    "avito_id": 8423019101
   },
   {
     "id": "ai-course-ufa-1",
     "direction": "ai-course",
-    "city": "Уфа"
+    "city": "Уфа",
+    "avito_id": 8348573538,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-chelyabinsk-1",
     "direction": "ai-course",
-    "city": "Челябинск"
+    "city": "Челябинск",
+    "avito_id": 8491430145,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-omsk-1",
     "direction": "ai-course",
-    "city": "Омск"
+    "city": "Омск",
+    "avito_id": 8410433284,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-voronezh-1",
     "direction": "ai-course",
-    "city": "Воронеж"
+    "city": "Воронеж",
+    "avito_id": 8577181794,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-perm-1",
     "direction": "ai-course",
-    "city": "Пермь"
+    "city": "Пермь",
+    "avito_id": 8514627928,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-volgograd-1",
     "direction": "ai-course",
-    "city": "Волгоград"
+    "city": "Волгоград",
+    "avito_id": 8421844080,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-saratov-1",
     "direction": "ai-course",
-    "city": "Саратов"
+    "city": "Саратов",
+    "avito_id": 8401401072,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-tyumen-1",
     "direction": "ai-course",
-    "city": "Тюмень"
+    "city": "Тюмень",
+    "avito_id": 8490064031,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-togliatti-1",
     "direction": "ai-course",
-    "city": "Тольятти"
+    "city": "Тольятти",
+    "avito_id": 8422300994,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-barnaul-1",
     "direction": "ai-course",
-    "city": "Барнаул"
+    "city": "Барнаул",
+    "avito_id": 8516822012,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-izhevsk-1",
     "direction": "ai-course",
-    "city": "Ижевск"
+    "city": "Ижевск",
+    "avito_id": 8360799621,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-khabarovsk-1",
     "direction": "ai-course",
-    "city": "Хабаровск"
+    "city": "Хабаровск",
+    "avito_id": 8463764448,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-ulyanovsk-1",
     "direction": "ai-course",
-    "city": "Ульяновск"
+    "city": "Ульяновск",
+    "avito_id": 8400961903,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-irkutsk-1",
     "direction": "ai-course",
-    "city": "Иркутск"
+    "city": "Иркутск",
+    "avito_id": 8400853938,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-course-vladivostok-1",
     "direction": "ai-course",
-    "city": "Владивосток"
+    "city": "Владивосток",
+    "avito_id": 8514409911,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-krasnodar-1",
     "direction": "ai-lessons",
-    "city": "Краснодар"
+    "city": "Краснодар",
+    "avito_id": 8369991680,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-samara-1",
     "direction": "ai-lessons",
-    "city": "Самара"
+    "city": "Самара",
+    "avito_id": 8491102361,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-rostov-1",
     "direction": "ai-lessons",
-    "city": "Ростов-на-Дону"
+    "city": "Ростов-на-Дону",
+    "avito_id": 8515788528,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-omsk-1",
     "direction": "ai-lessons",
-    "city": "Омск"
+    "city": "Омск",
+    "avito_id": 8574906185,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-voronezh-1",
     "direction": "ai-lessons",
-    "city": "Воронеж"
+    "city": "Воронеж",
+    "avito_id": 8499657561,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-perm-1",
     "direction": "ai-lessons",
-    "city": "Пермь"
+    "city": "Пермь",
+    "avito_id": 8360081419,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-volgograd-1",
     "direction": "ai-lessons",
-    "city": "Волгоград"
+    "city": "Волгоград",
+    "text_file": "variants/volgograd.md",
+    "avito_id": 8473106308,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-saratov-1",
     "direction": "ai-lessons",
-    "city": "Саратов"
+    "city": "Саратов",
+    "avito_id": 8347270579,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-tyumen-1",
     "direction": "ai-lessons",
-    "city": "Тюмень"
+    "city": "Тюмень",
+    "avito_id": 8471543883,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-togliatti-1",
     "direction": "ai-lessons",
-    "city": "Тольятти"
+    "city": "Тольятти",
+    "avito_id": 8515626810,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-barnaul-1",
     "direction": "ai-lessons",
-    "city": "Барнаул"
+    "city": "Барнаул",
+    "avito_id": 8369892379,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-izhevsk-1",
     "direction": "ai-lessons",
-    "city": "Ижевск"
+    "city": "Ижевск",
+    "avito_id": 8491806048,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-khabarovsk-1",
     "direction": "ai-lessons",
-    "city": "Хабаровск"
+    "city": "Хабаровск",
+    "avito_id": 8400192177,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-ulyanovsk-1",
     "direction": "ai-lessons",
-    "city": "Ульяновск"
+    "city": "Ульяновск",
+    "avito_id": 8470083295,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ai-lessons-irkutsk-1",
     "direction": "ai-lessons",
-    "city": "Иркутск"
+    "city": "Иркутск",
+    "avito_id": 8515387938,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-togliatti-1",
     "direction": "ml",
-    "city": "Тольятти"
+    "city": "Тольятти",
+    "avito_id": 8463416277,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-izhevsk-1",
     "direction": "ml",
-    "city": "Ижевск"
+    "city": "Ижевск",
+    "avito_id": 8364019340,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-khabarovsk-1",
     "direction": "ml",
-    "city": "Хабаровск"
+    "city": "Хабаровск",
+    "avito_id": 8577481922,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-ulyanovsk-1",
     "direction": "ml",
-    "city": "Ульяновск"
+    "city": "Ульяновск",
+    "avito_id": 8420658077,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-irkutsk-1",
     "direction": "ml",
-    "city": "Иркутск"
+    "city": "Иркутск",
+    "avito_id": 8400577249,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-vladivostok-1",
     "direction": "ml",
-    "city": "Владивосток"
+    "city": "Владивосток",
+    "avito_id": 8372444666,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-yaroslavl-1",
     "direction": "ml",
-    "city": "Ярославль"
+    "city": "Ярославль",
+    "avito_id": 8463216455,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-stavropol-1",
     "direction": "ml",
-    "city": "Ставрополь"
+    "city": "Ставрополь",
+    "avito_id": 8521749165,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-chelny-1",
     "direction": "ml",
-    "city": "Набережные Челны"
+    "city": "Набережные Челны",
+    "avito_id": 8414768062,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "ml-tomsk-1",
     "direction": "ml",
-    "city": "Томск"
+    "city": "Томск",
+    "avito_id": 8420218945,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-krasnoyarsk-1",
     "direction": "programming",
-    "city": "Красноярск"
+    "city": "Красноярск",
+    "avito_id": 8445810420
   },
   {
     "id": "programming-chelyabinsk-1",
     "direction": "programming",
-    "city": "Челябинск"
+    "city": "Челябинск",
+    "avito_id": 8490846700
   },
   {
     "id": "programming-ufa-1",
     "direction": "programming",
-    "city": "Уфа"
+    "city": "Уфа",
+    "avito_id": 8469905198
   },
   {
     "id": "programming-krasnodar-1",
     "direction": "programming",
-    "city": "Краснодар"
+    "city": "Краснодар",
+    "avito_id": 8544163151
   },
   {
     "id": "programming-samara-1",
     "direction": "programming",
-    "city": "Самара"
+    "city": "Самара",
+    "avito_id": 8360224447,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-rostov-1",
     "direction": "programming",
-    "city": "Ростов-на-Дону"
+    "city": "Ростов-на-Дону",
+    "avito_id": 8472914353,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-omsk-1",
     "direction": "programming",
-    "city": "Омск"
+    "city": "Омск",
+    "avito_id": 8400315853,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-voronezh-1",
     "direction": "programming",
-    "city": "Воронеж"
+    "city": "Воронеж",
+    "avito_id": 8575687981,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-perm-1",
     "direction": "programming",
-    "city": "Пермь"
+    "city": "Пермь",
+    "avito_id": 8410429867,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-volgograd-1",
     "direction": "programming",
-    "city": "Волгоград"
+    "city": "Волгоград",
+    "avito_id": 8490650384,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-saratov-1",
     "direction": "programming",
-    "city": "Саратов"
+    "city": "Саратов",
+    "avito_id": 8520836378,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-tyumen-1",
     "direction": "programming",
-    "city": "Тюмень"
+    "city": "Тюмень",
+    "avito_id": 8400778531,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-togliatti-1",
     "direction": "programming",
-    "city": "Тольятти"
+    "city": "Тольятти",
+    "avito_id": 8347672541,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-makhachkala-1",
     "direction": "programming",
-    "city": "Махачкала"
+    "city": "Махачкала",
+    "avito_id": 8347949702,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-barnaul-1",
     "direction": "programming",
-    "city": "Барнаул"
+    "city": "Барнаул",
+    "avito_id": 8445048283,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-izhevsk-1",
     "direction": "programming",
-    "city": "Ижевск"
+    "city": "Ижевск",
+    "avito_id": 8398623834,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-khabarovsk-1",
     "direction": "programming",
-    "city": "Хабаровск"
+    "city": "Хабаровск",
+    "avito_id": 8444991415,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-ulyanovsk-1",
     "direction": "programming",
-    "city": "Ульяновск"
+    "city": "Ульяновск",
+    "avito_id": 8414045550,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-irkutsk-1",
     "direction": "programming",
-    "city": "Иркутск"
+    "city": "Иркутск",
+    "avito_id": 8364822011,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
   },
   {
     "id": "programming-vladivostok-1",
     "direction": "programming",
-    "city": "Владивосток"
+    "city": "Владивосток",
+    "avito_id": 8414574481,
+    "date_begin": "2030-01-01",
+    "note": "скрыто по запросу владельца 11.11.2026; история сохранена"
+  },
+  {
+    "id": "tutoring-top40-20251101-r21",
+    "direction": "tutoring",
+    "city": "Барнаул",
+    "avito_id": 8367415107
+  },
+  {
+    "id": "tutoring-top40-20251101-r22",
+    "direction": "tutoring",
+    "city": "Ижевск",
+    "avito_id": 8394289705
+  },
+  {
+    "id": "tutoring-top40-20251101-r23",
+    "direction": "tutoring",
+    "city": "Хабаровск",
+    "avito_id": 8447896660
+  },
+  {
+    "id": "tutoring-top40-20251101-r24",
+    "direction": "tutoring",
+    "city": "Ульяновск",
+    "avito_id": 8274229851
+  },
+  {
+    "id": "tutoring-top40-20251101-r25",
+    "direction": "tutoring",
+    "city": "Иркутск",
+    "avito_id": 8268727585
+  },
+  {
+    "id": "tutoring-top40-20251101-r26",
+    "direction": "tutoring",
+    "city": "Владивосток",
+    "avito_id": 8395816602
+  },
+  {
+    "id": "tutoring-top40-20251101-r27",
+    "direction": "tutoring",
+    "city": "Ярославль",
+    "avito_id": 8394092526
+  },
+  {
+    "id": "tutoring-top40-20251101-r28",
+    "direction": "tutoring",
+    "city": "Ставрополь"
+  },
+  {
+    "id": "tutoring-top40-20251101-r29",
+    "direction": "tutoring",
+    "city": "Набережные Челны"
+  },
+  {
+    "id": "tutoring-top40-20251101-r30",
+    "direction": "tutoring",
+    "city": "Томск"
+  },
+  {
+    "id": "tutoring-top40-20251101-r31",
+    "direction": "tutoring",
+    "city": "Балашиха"
+  },
+  {
+    "id": "tutoring-top40-20251101-r32",
+    "direction": "tutoring",
+    "city": "Кемерово"
+  },
+  {
+    "id": "tutoring-top40-20251101-r33",
+    "direction": "tutoring",
+    "city": "Оренбург"
+  },
+  {
+    "id": "tutoring-top40-20251101-r34",
+    "direction": "tutoring",
+    "city": "Новокузнецк"
+  },
+  {
+    "id": "tutoring-top40-20251101-r35",
+    "direction": "tutoring",
+    "city": "Рязань"
+  },
+  {
+    "id": "tutoring-top40-20251101-r36",
+    "direction": "tutoring",
+    "city": "Севастополь"
+  },
+  {
+    "id": "tutoring-top40-20251101-r37",
+    "direction": "tutoring",
+    "city": "Чебоксары"
+  },
+  {
+    "id": "tutoring-top40-20251101-r38",
+    "direction": "tutoring",
+    "city": "Калининград"
+  },
+  {
+    "id": "tutoring-top40-20251101-r39",
+    "direction": "tutoring",
+    "city": "Пенза"
+  },
+  {
+    "id": "tutoring-top40-20251101-r40",
+    "direction": "tutoring",
+    "city": "Липецк"
   }
 ]

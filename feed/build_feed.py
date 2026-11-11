@@ -1,6 +1,7 @@
 """Собирает feed/avito.xml для Автозагрузки Авито.
 
 Список объявлений: feed/ads.json (id, direction, city, необязательно title, price,
+text_file для отдельного текста относительно ads/<direction>/,
 avito_id для привязки уже существующего объявления, date_begin в формате ГГГГ-ММ-ДД,
 price_list [[ServiceName, ServiceTitle, цена, "Да"/"Нет", ServicePriceType], ...],
 promo {"bid", "daily_limit"} для ручной цены продвижения (можно задать на всё направление
@@ -76,7 +77,11 @@ def main():
         if not title or not price:
             errors.append(f"{aid}: нет заголовка или цены в price.md")
             continue
-        text_path = ROOT / "ads" / d / "text.md"
+        direction_path = (ROOT / "ads" / d).resolve()
+        text_path = (direction_path / ad.get("text_file", "text.md")).resolve()
+        if not text_path.is_relative_to(direction_path):
+            errors.append(f"{aid}: text_file должен находиться в ads/{d}/")
+            continue
         if not text_path.exists():
             errors.append(f"{aid}: нет {text_path.relative_to(ROOT)}")
             continue
