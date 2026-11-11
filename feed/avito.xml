@@ -1120,7 +1120,7 @@
     <Address>Казань</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8437154025</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Разбор задачи или кода, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Сложные задачи и проекты, в час</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
@@ -4994,7 +4994,7 @@
     <Address>Барнаул</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8367415107</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5034,7 +5034,7 @@
     <Address>Ижевск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8394289705</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5074,7 +5074,7 @@
     <Address>Хабаровск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8447896660</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5114,7 +5114,7 @@
     <Address>Ульяновск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8274229851</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5154,7 +5154,7 @@
     <Address>Иркутск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8268727585</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5194,7 +5194,7 @@
     <Address>Владивосток</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8395816602</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5234,7 +5234,7 @@
     <Address>Ярославль</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8394092526</AvitoId>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5273,7 +5273,7 @@
     <Price>1500</Price>
     <Address>Ставрополь</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5310,7 +5310,7 @@
     <Price>1500</Price>
     <Address>Набережные Челны</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5347,7 +5347,7 @@
     <Price>1500</Price>
     <Address>Томск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5384,7 +5384,7 @@
     <Price>1500</Price>
     <Address>Балашиха</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5421,7 +5421,7 @@
     <Price>1500</Price>
     <Address>Кемерово</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5458,7 +5458,7 @@
     <Price>1500</Price>
     <Address>Оренбург</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5495,7 +5495,7 @@
     <Price>1500</Price>
     <Address>Новокузнецк</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5532,7 +5532,7 @@
     <Price>1500</Price>
     <Address>Рязань</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5569,7 +5569,7 @@
     <Price>1500</Price>
     <Address>Севастополь</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5606,7 +5606,7 @@
     <Price>1500</Price>
     <Address>Чебоксары</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5643,7 +5643,7 @@
     <Price>1500</Price>
     <Address>Калининград</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5680,7 +5680,7 @@
     <Price>1500</Price>
     <Address>Пенза</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -5717,7 +5717,7 @@
     <Price>1500</Price>
     <Address>Липецк</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-11T17:20:00+03:00</DateBegin>
+    <DateBegin>2026-11-11T17:00:00+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>

@@ -234,7 +234,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "programming-moscow-1",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Красноярск",
@@ -599,7 +599,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r21",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Ижевск",
@@ -614,7 +614,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r22",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Хабаровск",
@@ -629,7 +629,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r23",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Ульяновск",
@@ -644,7 +644,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r24",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Иркутск",
@@ -659,7 +659,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r25",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Владивосток",
@@ -674,7 +674,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r26",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Ярославль",
@@ -689,7 +689,7 @@
       "was_active": false,
       "restored": true,
       "autoload_id": "tutoring-top40-20251101-r27",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Ставрополь",
@@ -704,7 +704,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r28",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Набережные Челны",
@@ -719,7 +719,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r29",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Томск",
@@ -734,7 +734,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r30",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Балашиха",
@@ -749,7 +749,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r31",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Кемерово",
@@ -764,7 +764,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r32",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Оренбург",
@@ -779,7 +779,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r33",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Новокузнецк",
@@ -794,7 +794,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r34",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Рязань",
@@ -809,7 +809,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r35",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Севастополь",
@@ -824,7 +824,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r36",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Чебоксары",
@@ -839,7 +839,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r37",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Калининград",
@@ -854,7 +854,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r38",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Пенза",
@@ -869,7 +869,7 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r39",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     },
     {
       "city": "Липецк",
@@ -884,10 +884,10 @@
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r40",
-      "scheduled_at": "2026-11-11T17:20:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00"
     }
   ],
-  "pending_publication_time_moscow": "2026-11-11T17:20:00+03:00",
+  "pending_publication_time_moscow": "2026-11-11T17:00:00+03:00",
   "verified_active_pricing_count": 39,
   "state": "awaiting scheduled import after account advance top-up"
 }
