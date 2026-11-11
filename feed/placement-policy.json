@@ -13,15 +13,7 @@
     "https://www.mojgorod.ru/cities/pop2025_3.html"
   ],
   "population_date": "2025-01-01",
-  "existing_bids_rub": {
-    "Казань": 120,
-    "Уфа": 120,
-    "million_plus": 100,
-    "other": 80,
-    "north_caucasus": 50
-  },
   "daily_budget_view_multiplier": 3,
-  "new_bid": "minimum valid manual bid: base minimum plus 1 kopeck so the daily limit works",
   "minimum_daily_limit_rub_if_needed": 50,
   "extra_paid_publications_authorized": false,
   "listings": [
@@ -888,8 +880,8 @@
     }
   ],
   "pending_publication_time_moscow": "2026-11-11T17:00:00+03:00",
-  "verified_active_pricing_count": 39,
-  "state": "awaiting scheduled import after account advance top-up",
+  "verified_active_pricing_count": null,
+  "state": "urgent ML/programming bid correction to 20 RUB in progress",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -899,5 +891,14 @@
       "bid": 20,
       "daily_limit": 60
     }
-  }
+  },
+  "existing_tutoring_bids_rub": {
+    "Казань": 120,
+    "Уфа": 120,
+    "million_plus": 100,
+    "other": 80,
+    "north_caucasus": 50
+  },
+  "new_tutoring_bid": "minimum valid manual bid: base minimum plus 1 kopeck so the daily limit works",
+  "correction_note": "Ставки 120/100/80/50 относятся только к старым объявлениям репетиторства. Для всех ML и помощи студентам: 20 ₽ за целевое действие, дневной лимит 60 ₽."
 }
