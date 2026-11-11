@@ -1338,78 +1338,143 @@
     "id": "tutoring-top40-20251101-r28",
     "direction": "tutoring",
     "city": "Ставрополь",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8446031739,
+    "promo": {
+      "bid": 16,
+      "daily_limit": 50
+    }
   },
   {
     "id": "tutoring-top40-20251101-r29",
     "direction": "tutoring",
     "city": "Набережные Челны",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8502118962,
+    "promo": {
+      "bid": 27,
+      "daily_limit": 81
+    }
   },
   {
     "id": "tutoring-top40-20251101-r30",
     "direction": "tutoring",
     "city": "Томск",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8446499417,
+    "promo": {
+      "bid": 26,
+      "daily_limit": 78
+    }
   },
   {
     "id": "tutoring-top40-20251101-r31",
     "direction": "tutoring",
     "city": "Балашиха",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8392357688,
+    "promo": {
+      "bid": 36,
+      "daily_limit": 108
+    }
   },
   {
     "id": "tutoring-top40-20251101-r32",
     "direction": "tutoring",
     "city": "Кемерово",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8549067615,
+    "promo": {
+      "bid": 26,
+      "daily_limit": 78
+    }
   },
   {
     "id": "tutoring-top40-20251101-r33",
     "direction": "tutoring",
     "city": "Оренбург",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8379972437,
+    "promo": {
+      "bid": 27,
+      "daily_limit": 81
+    }
   },
   {
     "id": "tutoring-top40-20251101-r34",
     "direction": "tutoring",
     "city": "Новокузнецк",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8402250822,
+    "promo": {
+      "bid": 26,
+      "daily_limit": 78
+    }
   },
   {
     "id": "tutoring-top40-20251101-r35",
     "direction": "tutoring",
     "city": "Рязань",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8454411889,
+    "promo": {
+      "bid": 22,
+      "daily_limit": 66
+    }
   },
   {
     "id": "tutoring-top40-20251101-r36",
     "direction": "tutoring",
     "city": "Севастополь",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8379977154,
+    "promo": {
+      "bid": 9,
+      "daily_limit": 50
+    }
   },
   {
     "id": "tutoring-top40-20251101-r37",
     "direction": "tutoring",
     "city": "Чебоксары",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8471828907,
+    "promo": {
+      "bid": 27,
+      "daily_limit": 81
+    }
   },
   {
     "id": "tutoring-top40-20251101-r38",
     "direction": "tutoring",
     "city": "Калининград",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8433827775,
+    "promo": {
+      "bid": 21,
+      "daily_limit": 63
+    }
   },
   {
     "id": "tutoring-top40-20251101-r39",
     "direction": "tutoring",
     "city": "Пенза",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8379045508,
+    "promo": {
+      "bid": 27,
+      "daily_limit": 81
+    }
   },
   {
     "id": "tutoring-top40-20251101-r40",
     "direction": "tutoring",
     "city": "Липецк",
-    "date_begin": "2026-11-11T17:00:00+03:00"
+    "date_begin": "2026-11-11T17:00:00+03:00",
+    "avito_id": 8576794181,
+    "promo": {
+      "bid": 22,
+      "daily_limit": 66
+    }
   }
 ]

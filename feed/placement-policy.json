@@ -689,14 +689,15 @@
       "rank": 28,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8446031739,
+      "bid_rub": 16,
+      "daily_limit_rub": 50,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r28",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 15.2
     },
     {
       "city": "Набережные Челны",
@@ -704,14 +705,15 @@
       "rank": 29,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8502118962,
+      "bid_rub": 27,
+      "daily_limit_rub": 81,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r29",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 26.8
     },
     {
       "city": "Томск",
@@ -719,14 +721,15 @@
       "rank": 30,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8446499417,
+      "bid_rub": 26,
+      "daily_limit_rub": 78,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r30",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 25.5
     },
     {
       "city": "Балашиха",
@@ -734,14 +737,15 @@
       "rank": 31,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8392357688,
+      "bid_rub": 36,
+      "daily_limit_rub": 108,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r31",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 35.7
     },
     {
       "city": "Кемерово",
@@ -749,14 +753,15 @@
       "rank": 32,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8549067615,
+      "bid_rub": 26,
+      "daily_limit_rub": 78,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r32",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 25.5
     },
     {
       "city": "Оренбург",
@@ -764,14 +769,15 @@
       "rank": 33,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8379972437,
+      "bid_rub": 27,
+      "daily_limit_rub": 81,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r33",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 26.8
     },
     {
       "city": "Новокузнецк",
@@ -779,14 +785,15 @@
       "rank": 34,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8402250822,
+      "bid_rub": 26,
+      "daily_limit_rub": 78,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r34",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 25.5
     },
     {
       "city": "Рязань",
@@ -794,14 +801,15 @@
       "rank": 35,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8454411889,
+      "bid_rub": 22,
+      "daily_limit_rub": 66,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r35",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 21.6
     },
     {
       "city": "Севастополь",
@@ -809,14 +817,15 @@
       "rank": 36,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8379977154,
+      "bid_rub": 9,
+      "daily_limit_rub": 50,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r36",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 8.6
     },
     {
       "city": "Чебоксары",
@@ -824,14 +833,15 @@
       "rank": 37,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8471828907,
+      "bid_rub": 27,
+      "daily_limit_rub": 81,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r37",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 26.8
     },
     {
       "city": "Калининград",
@@ -839,14 +849,15 @@
       "rank": 38,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8433827775,
+      "bid_rub": 21,
+      "daily_limit_rub": 63,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r38",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 20.4
     },
     {
       "city": "Пенза",
@@ -854,14 +865,15 @@
       "rank": 39,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8379045508,
+      "bid_rub": 27,
+      "daily_limit_rub": 81,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r39",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 26.8
     },
     {
       "city": "Липецк",
@@ -869,19 +881,20 @@
       "rank": 40,
       "direction": "tutoring",
       "existing": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8576794181,
+      "bid_rub": 22,
+      "daily_limit_rub": 66,
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
       "autoload_id": "tutoring-top40-20251101-r40",
-      "scheduled_at": "2026-11-11T17:00:00+03:00"
+      "scheduled_at": "2026-11-11T17:00:00+03:00",
+      "base_minimum_rub": 21.6
     }
   ],
   "pending_publication_time_moscow": "2026-11-11T17:00:00+03:00",
-  "verified_active_pricing_count": null,
-  "state": "urgent ML/programming bid correction to 20 RUB in progress",
+  "verified_active_pricing_count": 60,
+  "state": "verified_complete",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -899,12 +912,17 @@
     "other": 80,
     "north_caucasus": 50
   },
-  "new_tutoring_bid": "minimum valid manual bid: base minimum plus 1 kopeck so the daily limit works",
+  "new_tutoring_bid": "minimum valid whole-ruble manual bid strictly above the base minimum, so daily cap works",
   "correction_note": "Ставки 120/100/80/50 относятся только к старым объявлениям репетиторства. Для всех ML и помощи студентам: 20 ₽ за целевое действие, дневной лимит 60 ₽.",
   "moscow_ml_programming_exception": {
     "bid_rub": 21.8,
     "mode": "base_minimum",
     "daily_limit_available": false,
     "explicitly_authorized": "2026-11-11"
-  }
+  },
+  "verified_at_moscow": "2026-11-11T17:15:27+03:00",
+  "manual_pricing_count": 58,
+  "base_minimum_exceptions_count": 2,
+  "active_count": 60,
+  "unwanted_active_count": 0
 }
