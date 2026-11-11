@@ -24,9 +24,9 @@
       "direction": "ml",
       "existing": true,
       "avito_id": 8294130483,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_rub",
+      "bid_rub": 21.8,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_without_daily_limit",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-moskva-m8294130483"
@@ -164,9 +164,9 @@
       "direction": "programming",
       "existing": true,
       "avito_id": 8491135082,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_rub",
+      "bid_rub": 21.8,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_without_daily_limit",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-moskva-1"
@@ -900,5 +900,11 @@
     "north_caucasus": 50
   },
   "new_tutoring_bid": "minimum valid manual bid: base minimum plus 1 kopeck so the daily limit works",
-  "correction_note": "Ставки 120/100/80/50 относятся только к старым объявлениям репетиторства. Для всех ML и помощи студентам: 20 ₽ за целевое действие, дневной лимит 60 ₽."
+  "correction_note": "Ставки 120/100/80/50 относятся только к старым объявлениям репетиторства. Для всех ML и помощи студентам: 20 ₽ за целевое действие, дневной лимит 60 ₽.",
+  "moscow_ml_programming_exception": {
+    "bid_rub": 21.8,
+    "mode": "base_minimum",
+    "daily_limit_available": false,
+    "explicitly_authorized": "2026-11-11"
+  }
 }
