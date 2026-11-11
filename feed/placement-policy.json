@@ -899,12 +899,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8452024639,
+      "bid_rub": 27,
+      "daily_limit_rub": 81,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r41",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 26.8
     },
     {
       "city": "Астрахань",
@@ -914,12 +915,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8609683573,
+      "bid_rub": 19,
+      "daily_limit_rub": 57,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r42",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 18.7
     },
     {
       "city": "Тула",
@@ -929,12 +931,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8505627938,
+      "bid_rub": 22,
+      "daily_limit_rub": 66,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r43",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 21.6
     },
     {
       "city": "Сочи",
@@ -944,12 +947,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8545913530,
+      "bid_rub": 19,
+      "daily_limit_rub": 57,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r44",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 18.7
     },
     {
       "city": "Улан-Удэ",
@@ -959,12 +963,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8523418223,
+      "bid_rub": 21,
+      "daily_limit_rub": 63,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r45",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 20.4
     },
     {
       "city": "Курск",
@@ -974,12 +979,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8392163644,
+      "bid_rub": 10,
+      "daily_limit_rub": 50,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r46",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 9.9
     },
     {
       "city": "Сургут",
@@ -989,12 +995,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8380812752,
+      "bid_rub": 26,
+      "daily_limit_rub": 78,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r47",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 25.5
     },
     {
       "city": "Тверь",
@@ -1004,12 +1011,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8446604094,
+      "bid_rub": 22,
+      "daily_limit_rub": 66,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r48",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 21.6
     },
     {
       "city": "Магнитогорск",
@@ -1019,12 +1027,13 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8495421587,
+      "bid_rub": 26,
+      "daily_limit_rub": 78,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r49",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 25.5
     },
     {
       "city": "Грозный",
@@ -1034,17 +1043,18 @@
       "existing": false,
       "was_active": false,
       "restored": false,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
+      "avito_id": 8392113328,
+      "bid_rub": 16,
+      "daily_limit_rub": 50,
       "pricing": "minimum",
       "autoload_id": "tutoring-top50-20261111-r50",
-      "scheduled_at": "2026-11-11T18:00:00+03:00"
+      "scheduled_at": "2026-11-11T18:00:00+03:00",
+      "base_minimum_rub": 15.2
     }
   ],
   "pending_publication_time_moscow": "2026-11-11T17:00:00+03:00",
-  "verified_active_pricing_count": 60,
-  "state": "scheduled_10_additional_tutoring",
+  "verified_active_pricing_count": 70,
+  "state": "verified_complete",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -1070,10 +1080,10 @@
     "daily_limit_available": false,
     "explicitly_authorized": "2026-11-11"
   },
-  "verified_at_moscow": "2026-11-11T17:15:27+03:00",
-  "manual_pricing_count": 58,
+  "verified_at_moscow": "2026-11-11T18:09:03+03:00",
+  "manual_pricing_count": 68,
   "base_minimum_exceptions_count": 2,
-  "active_count": 60,
+  "active_count": 70,
   "unwanted_active_count": 0,
   "additional_tutoring_date": "2026-11-11T18:00:00+03:00",
   "additional_tutoring_count": 10,
