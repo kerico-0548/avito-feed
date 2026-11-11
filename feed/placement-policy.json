@@ -21,7 +21,7 @@
     "north_caucasus": 50
   },
   "daily_budget_view_multiplier": 3,
-  "new_bid": "minimum available manual bid from Avito API",
+  "new_bid": "minimum valid manual bid: base minimum plus 1 kopeck so the daily limit works",
   "minimum_daily_limit_rub_if_needed": 50,
   "extra_paid_publications_authorized": false,
   "listings": [
@@ -233,7 +233,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "programming-moscow-1"
+      "autoload_id": "programming-moscow-1",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Красноярск",
@@ -597,7 +598,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r21"
+      "autoload_id": "tutoring-top40-20251101-r21",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Ижевск",
@@ -611,7 +613,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r22"
+      "autoload_id": "tutoring-top40-20251101-r22",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Хабаровск",
@@ -625,7 +628,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r23"
+      "autoload_id": "tutoring-top40-20251101-r23",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Ульяновск",
@@ -639,7 +643,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r24"
+      "autoload_id": "tutoring-top40-20251101-r24",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Иркутск",
@@ -653,7 +658,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r25"
+      "autoload_id": "tutoring-top40-20251101-r25",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Владивосток",
@@ -667,7 +673,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r26"
+      "autoload_id": "tutoring-top40-20251101-r26",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Ярославль",
@@ -681,7 +688,8 @@
       "pricing": "regional",
       "was_active": false,
       "restored": true,
-      "autoload_id": "tutoring-top40-20251101-r27"
+      "autoload_id": "tutoring-top40-20251101-r27",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Ставрополь",
@@ -695,7 +703,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r28"
+      "autoload_id": "tutoring-top40-20251101-r28",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Набережные Челны",
@@ -709,7 +718,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r29"
+      "autoload_id": "tutoring-top40-20251101-r29",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Томск",
@@ -723,7 +733,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r30"
+      "autoload_id": "tutoring-top40-20251101-r30",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Балашиха",
@@ -737,7 +748,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r31"
+      "autoload_id": "tutoring-top40-20251101-r31",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Кемерово",
@@ -751,7 +763,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r32"
+      "autoload_id": "tutoring-top40-20251101-r32",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Оренбург",
@@ -765,7 +778,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r33"
+      "autoload_id": "tutoring-top40-20251101-r33",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Новокузнецк",
@@ -779,7 +793,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r34"
+      "autoload_id": "tutoring-top40-20251101-r34",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Рязань",
@@ -793,7 +808,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r35"
+      "autoload_id": "tutoring-top40-20251101-r35",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Севастополь",
@@ -807,7 +823,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r36"
+      "autoload_id": "tutoring-top40-20251101-r36",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Чебоксары",
@@ -821,7 +838,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r37"
+      "autoload_id": "tutoring-top40-20251101-r37",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Калининград",
@@ -835,7 +853,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r38"
+      "autoload_id": "tutoring-top40-20251101-r38",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Пенза",
@@ -849,7 +868,8 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r39"
+      "autoload_id": "tutoring-top40-20251101-r39",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     },
     {
       "city": "Липецк",
@@ -863,7 +883,11 @@
       "pricing": "minimum",
       "was_active": false,
       "restored": false,
-      "autoload_id": "tutoring-top40-20251101-r40"
+      "autoload_id": "tutoring-top40-20251101-r40",
+      "scheduled_at": "2026-11-11T17:20:00+03:00"
     }
-  ]
+  ],
+  "pending_publication_time_moscow": "2026-11-11T17:20:00+03:00",
+  "verified_active_pricing_count": 39,
+  "state": "awaiting scheduled import after account advance top-up"
 }
