@@ -17,6 +17,7 @@ promo {"bid", "daily_limit"} для ручной цены продвижения
 Id объявления менять нельзя, иначе Авито создаст новое.
 """
 import html
+import hashlib
 import json
 import re
 import sys
@@ -88,8 +89,14 @@ def main():
         desc = md_to_html(text_path.read_text(encoding="utf-8"))
         if len(desc) > MAX_DESC:
             errors.append(f"{aid}: описание {len(desc)} символов, лимит {MAX_DESC}")
-        photos = sorted(p for p in (ROOT / "ads" / d / "photos").glob("*")
-                        if p.suffix.lower() in (".png", ".jpg", ".jpeg"))[:10]
+        photo_files = (p for p in (ROOT / "ads" / d / "photos").glob("*")
+                       if p.is_file() and p.suffix.lower() in (".png", ".jpg", ".jpeg"))
+        if d == "tutoring":
+            # Mixed names such as 01, 2, ..., 08, 09, 10 must retain numeric order.
+            photos = sorted(photo_files, key=lambda p: (int(p.stem), p.name)
+                            if p.stem.isdigit() else (sys.maxsize, p.name))[:10]
+        else:
+            photos = sorted(photo_files)[:10]
         if not photos:
             errors.append(f"{aid}: нет фото")
 
@@ -128,7 +135,11 @@ def main():
                   "</Item></PromoManualOptions>\n")
         x += f"    <Description><![CDATA[{desc}]]></Description>\n    <Images>\n"
         for p in photos:
-            x += f'      <Image url="{RAW}{p.relative_to(ROOT).as_posix()}"/>\n'
+            photo_url = RAW + p.relative_to(ROOT).as_posix()
+            if d == "tutoring":
+                # Avito caches images by URL; a content version forces a fresh import.
+                photo_url += "?v=" + hashlib.sha256(p.read_bytes()).hexdigest()[:16]
+            x += f'      <Image url="{photo_url}"/>\n'
         x += "    </Images>\n  </Ad>\n"
         out.append(x)
 
