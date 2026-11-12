@@ -1186,11 +1186,11 @@
       "existing": false,
       "was_active": false,
       "avito_id": null,
-      "pricing": "new_tutoring_fixed_30_20261112",
-      "bid_rub": 30,
-      "daily_limit_rub": 90,
-      "scheduled_at": "2030-01-01",
-      "publication_state": "awaiting_owner_bid_decision",
+      "pricing": "new_tutoring_podolsk_36_authorized_20261112",
+      "bid_rub": 36,
+      "daily_limit_rub": 108,
+      "scheduled_at": "2026-11-12T17:35:00+03:00",
+      "publication_state": "ready",
       "minimum_manual_bid_rub": 36,
       "required_daily_limit_rub": 108
     },
@@ -1305,11 +1305,11 @@
     "tutoring-top60-20261112-r59",
     "tutoring-top60-20261112-r60"
   ],
-  "pending_bid_decision": {
-    "autoload_id": "tutoring-top60-20261112-r60",
-    "city": "Подольск",
-    "requested_bid_rub": 30,
-    "minimum_manual_bid_rub": 36,
-    "daily_limit_rub": 108
+  "new_tutoring_city_exceptions": {
+    "Подольск": {
+      "bid_rub": 36,
+      "daily_limit_rub": 108,
+      "authorized_on": "2026-11-12"
+    }
   }
 }
