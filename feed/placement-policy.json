@@ -2046,11 +2046,11 @@
       "avito_id": null,
       "was_active": false,
       "restored": false,
-      "bid_rub": 30,
-      "daily_limit_rub": 90,
-      "pricing": "new_tutoring_30_20261113",
-      "scheduled_at": "2030-01-01",
-      "publication_hold": true
+      "bid_rub": 36,
+      "daily_limit_rub": 108,
+      "pricing": "mytishchi_minimum_36_authorized_20261113",
+      "scheduled_at": "2026-11-13T00:40:29+03:00",
+      "publication_hold": false
     },
     {
       "autoload_id": "tutoring-top75-20261113-r74",
@@ -2185,6 +2185,11 @@
       "bid_rub": 36,
       "daily_limit_rub": 108,
       "authorized_on": "2026-11-12"
+    },
+    "Мытищи": {
+      "bid_rub": 36,
+      "daily_limit_rub": 108,
+      "authorized_on": "2026-11-13"
     }
   },
   "tutoring_floor_update_20261112": {
@@ -2211,7 +2216,12 @@
     "last_ten_tutoring": "30/90 or Avito minimum; Podolsk36/108 preserved",
     "ml_programming_bid_rub": 20,
     "ml_programming_daily_limit_rub": 60,
-    "above_20_minimum": "base price, no daily limit"
+    "above_20_minimum": "base price, no daily limit",
+    "mytishchi_exception": {
+      "bid_rub": 36,
+      "daily_limit_rub": 108,
+      "authorized": true
+    }
   },
   "tutoring_raise_from_bid_rub": 45,
   "tutoring_raise_to_bid_rub": 60,
