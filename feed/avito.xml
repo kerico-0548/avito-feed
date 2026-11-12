@@ -6667,12 +6667,15 @@
     <Price>700</Price>
     <Address>Ярославль</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8546753087</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Разбор задачи или кода, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Сложные задачи и проекты, в час</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Обсуждение задачи</ServiceTitle><ServicePrice>0</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions><Item><Bid>20</Bid><DailyLimit>60</DailyLimit></Item></PromoManualOptions>
     <Description><![CDATA[<p><strong>ПОМОЩЬ СТУДЕНТАМ С ПРОГРАММИРОВАНИЕМ</strong><br><strong>Обсуждение задачи бесплатно</strong></p><p>Учитесь на IT-направлении или просто попалась задача по программированию? Скиньте задание или скрин, разберём вместе: решение, код, ошибки и как всё это объяснить преподавателю</p><p>👨‍💻 <strong>О СЕБЕ</strong></p><p>Окончил с отличием московский вуз по направлению <strong>«Фундаментальная информатика и информационные технологии»</strong></p><p>💻 Программирую <strong>10 лет</strong><br>🎓 <strong>7 лет</strong> объясняю информатику и программирование студентам и школьникам<br>🛠 <strong>4 года</strong> беру заказы по разработке</p><p>Сам через всё это проходил, поэтому знаю, где обычно застревают и как объяснить так, чтобы стало понятно</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🎓 <strong>С ЧЕМ ПОМОГУ СТУДЕНТАМ</strong></p><p>✔️ <strong>Задачи на программирование</strong>: от первых циклов и массивов до сложных алгоритмов<br>✔️ <strong>Алгоритмы и структуры данных</strong>: сортировки, рекурсия, стеки, очереди, деревья, графы, динамическое программирование<br>✔️ <strong>ООП</strong>: классы, наследование, полиморфизм, интерфейсы, паттерны<br>✔️ <strong>Ошибки в коде</strong>: найду, почему не запускается или выдаёт не то, и покажу, как исправить<br>✔️ <strong>Базы данных</strong>: SQL-запросы, ER-диаграммы, нормализация, проектирование БД<br>✔️ <strong>Веб</strong>: HTML, CSS, JavaScript, простые сайты и формы, клиент и сервер<br>✔️ <strong>Excel и таблицы</strong>: формулы, сводные таблицы, графики, макросы VBA<br>✔️ <strong>Блок-схемы, UML и псевдокод</strong><br>✔️ <strong>Тестирование</strong>: unit-тесты, проверка граничных случаев<br>✔️ <strong>Документация и ТЗ</strong>: помогу разобраться с оформлением и структурой<br>✔️ <strong>Свой проект</strong>: объясню каждую строчку, чтобы вы уверенно рассказали, как он устроен</p><p>Работаю с заданиями любого курса, от первого до выпускного</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💻 <strong>ЯЗЫКИ И ТЕХНОЛОГИИ</strong></p><p>🔴 <strong>Python</strong>: ООП, файлы, Tkinter и PyQt, Flask, FastAPI, Django<br>🔴 <strong>C и C++</strong>: указатели, память, STL, алгоритмы<br>🔴 <strong>Java</strong>: ООП, коллекции, исключения, JUnit<br>🔴 <strong>C#</strong>: ООП, .NET, Windows Forms и WPF<br>🔴 <strong>Pascal и Delphi</strong><br>🔴 <strong>JavaScript и TypeScript</strong>, HTML и CSS, React<br>🔵 <strong>SQL</strong>: PostgreSQL, MySQL, SQLite, MS SQL<br>🔵 <strong>Excel, Google Таблицы, VBA</strong><br>🔵 <strong>Git, GitHub, Docker, Linux, bash</strong><br>🔵 <strong>Visual Studio, VS Code, PyCharm, IntelliJ IDEA</strong></p><p>Если вашего языка нет в списке, всё равно пишите, посмотрю задачу</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🤖 <strong>ИСПОЛЬЗОВАНИЕ AI</strong></p><p>В стандартном формате работы я использую современные AI-инструменты, включая <strong>Claude и другие модели</strong>, чтобы быстрее разбирать задачи, писать и проверять код</p><p>Если нужна <strong>полностью ручная работа без AI</strong>, стоимость увеличивается в <strong>2,5–3 раза</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>📋 <strong>КАК ПРОХОДИТ РАБОТА</strong></p><p>1️⃣ Скидываете задание, скрин или описываете своими словами<br>2️⃣ Сразу называю срок и стоимость<br>3️⃣ Показываю промежуточный результат<br>4️⃣ Отдаю и объясняю, как всё работает и как запустить</p><p>Срочно тоже можно, скажу заранее, сколько это будет стоить</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🧩 <strong>ТАКЖЕ ДЕЛАЮ ПОД КЛЮЧ</strong></p><p>Telegram-боты, сайты и лендинги, скрипты и парсинг, автоматизация Excel, небольшие десктопные программы</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💰 <strong>СТОИМОСТЬ</strong></p><p><strong>От 700 до 1000 ₽ в час</strong>, зависит от сложности<br>Точную сумму называю до начала</p><p>🛡️ <strong>ГАРАНТИИ И УСЛОВИЯ</strong></p><p>✔️ Обсуждение задачи бесплатно<br>✔️ Заказы от <strong>5000 ₽</strong>: предоплата <strong>50%</strong> только после промежуточного результата<br>✔️ <strong>Неделю после сдачи бесплатно исправляю свои ошибки</strong><br>✔️ Если ошибка по моей вине и исправить не вышло, верну <strong>до 50% стоимости</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🚫 <strong>НЕ БЕРУСЬ</strong></p><p>Вирусы, взломы, накрутки, спам и всё, что нарушает закон</p><p>📩 Напишите, что нужно, разберёмся</p>]]></Description>
     <Images>
       <Image url="https://raw.githubusercontent.com/kerico-0548/avito-feed/main/ads/programming/photos/01.jpg"/>
@@ -6708,12 +6711,15 @@
     <Price>700</Price>
     <Address>Ставрополь</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8531145874</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Разбор задачи или кода, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Сложные задачи и проекты, в час</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Обсуждение задачи</ServiceTitle><ServicePrice>0</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions><Item><Bid>20</Bid><DailyLimit>60</DailyLimit></Item></PromoManualOptions>
     <Description><![CDATA[<p><strong>ПОМОЩЬ СТУДЕНТАМ С ПРОГРАММИРОВАНИЕМ</strong><br><strong>Обсуждение задачи бесплатно</strong></p><p>Учитесь на IT-направлении или просто попалась задача по программированию? Скиньте задание или скрин, разберём вместе: решение, код, ошибки и как всё это объяснить преподавателю</p><p>👨‍💻 <strong>О СЕБЕ</strong></p><p>Окончил с отличием московский вуз по направлению <strong>«Фундаментальная информатика и информационные технологии»</strong></p><p>💻 Программирую <strong>10 лет</strong><br>🎓 <strong>7 лет</strong> объясняю информатику и программирование студентам и школьникам<br>🛠 <strong>4 года</strong> беру заказы по разработке</p><p>Сам через всё это проходил, поэтому знаю, где обычно застревают и как объяснить так, чтобы стало понятно</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🎓 <strong>С ЧЕМ ПОМОГУ СТУДЕНТАМ</strong></p><p>✔️ <strong>Задачи на программирование</strong>: от первых циклов и массивов до сложных алгоритмов<br>✔️ <strong>Алгоритмы и структуры данных</strong>: сортировки, рекурсия, стеки, очереди, деревья, графы, динамическое программирование<br>✔️ <strong>ООП</strong>: классы, наследование, полиморфизм, интерфейсы, паттерны<br>✔️ <strong>Ошибки в коде</strong>: найду, почему не запускается или выдаёт не то, и покажу, как исправить<br>✔️ <strong>Базы данных</strong>: SQL-запросы, ER-диаграммы, нормализация, проектирование БД<br>✔️ <strong>Веб</strong>: HTML, CSS, JavaScript, простые сайты и формы, клиент и сервер<br>✔️ <strong>Excel и таблицы</strong>: формулы, сводные таблицы, графики, макросы VBA<br>✔️ <strong>Блок-схемы, UML и псевдокод</strong><br>✔️ <strong>Тестирование</strong>: unit-тесты, проверка граничных случаев<br>✔️ <strong>Документация и ТЗ</strong>: помогу разобраться с оформлением и структурой<br>✔️ <strong>Свой проект</strong>: объясню каждую строчку, чтобы вы уверенно рассказали, как он устроен</p><p>Работаю с заданиями любого курса, от первого до выпускного</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💻 <strong>ЯЗЫКИ И ТЕХНОЛОГИИ</strong></p><p>🔴 <strong>Python</strong>: ООП, файлы, Tkinter и PyQt, Flask, FastAPI, Django<br>🔴 <strong>C и C++</strong>: указатели, память, STL, алгоритмы<br>🔴 <strong>Java</strong>: ООП, коллекции, исключения, JUnit<br>🔴 <strong>C#</strong>: ООП, .NET, Windows Forms и WPF<br>🔴 <strong>Pascal и Delphi</strong><br>🔴 <strong>JavaScript и TypeScript</strong>, HTML и CSS, React<br>🔵 <strong>SQL</strong>: PostgreSQL, MySQL, SQLite, MS SQL<br>🔵 <strong>Excel, Google Таблицы, VBA</strong><br>🔵 <strong>Git, GitHub, Docker, Linux, bash</strong><br>🔵 <strong>Visual Studio, VS Code, PyCharm, IntelliJ IDEA</strong></p><p>Если вашего языка нет в списке, всё равно пишите, посмотрю задачу</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🤖 <strong>ИСПОЛЬЗОВАНИЕ AI</strong></p><p>В стандартном формате работы я использую современные AI-инструменты, включая <strong>Claude и другие модели</strong>, чтобы быстрее разбирать задачи, писать и проверять код</p><p>Если нужна <strong>полностью ручная работа без AI</strong>, стоимость увеличивается в <strong>2,5–3 раза</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>📋 <strong>КАК ПРОХОДИТ РАБОТА</strong></p><p>1️⃣ Скидываете задание, скрин или описываете своими словами<br>2️⃣ Сразу называю срок и стоимость<br>3️⃣ Показываю промежуточный результат<br>4️⃣ Отдаю и объясняю, как всё работает и как запустить</p><p>Срочно тоже можно, скажу заранее, сколько это будет стоить</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🧩 <strong>ТАКЖЕ ДЕЛАЮ ПОД КЛЮЧ</strong></p><p>Telegram-боты, сайты и лендинги, скрипты и парсинг, автоматизация Excel, небольшие десктопные программы</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💰 <strong>СТОИМОСТЬ</strong></p><p><strong>От 700 до 1000 ₽ в час</strong>, зависит от сложности<br>Точную сумму называю до начала</p><p>🛡️ <strong>ГАРАНТИИ И УСЛОВИЯ</strong></p><p>✔️ Обсуждение задачи бесплатно<br>✔️ Заказы от <strong>5000 ₽</strong>: предоплата <strong>50%</strong> только после промежуточного результата<br>✔️ <strong>Неделю после сдачи бесплатно исправляю свои ошибки</strong><br>✔️ Если ошибка по моей вине и исправить не вышло, верну <strong>до 50% стоимости</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🚫 <strong>НЕ БЕРУСЬ</strong></p><p>Вирусы, взломы, накрутки, спам и всё, что нарушает закон</p><p>📩 Напишите, что нужно, разберёмся</p>]]></Description>
     <Images>
       <Image url="https://raw.githubusercontent.com/kerico-0548/avito-feed/main/ads/programming/photos/01.jpg"/>
@@ -6749,12 +6755,15 @@
     <Price>700</Price>
     <Address>Набережные Челны</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8607067331</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Разбор задачи или кода, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Сложные задачи и проекты, в час</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Обсуждение задачи</ServiceTitle><ServicePrice>0</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions><Item><Bid>20</Bid><DailyLimit>60</DailyLimit></Item></PromoManualOptions>
     <Description><![CDATA[<p><strong>ПОМОЩЬ СТУДЕНТАМ С ПРОГРАММИРОВАНИЕМ</strong><br><strong>Обсуждение задачи бесплатно</strong></p><p>Учитесь на IT-направлении или просто попалась задача по программированию? Скиньте задание или скрин, разберём вместе: решение, код, ошибки и как всё это объяснить преподавателю</p><p>👨‍💻 <strong>О СЕБЕ</strong></p><p>Окончил с отличием московский вуз по направлению <strong>«Фундаментальная информатика и информационные технологии»</strong></p><p>💻 Программирую <strong>10 лет</strong><br>🎓 <strong>7 лет</strong> объясняю информатику и программирование студентам и школьникам<br>🛠 <strong>4 года</strong> беру заказы по разработке</p><p>Сам через всё это проходил, поэтому знаю, где обычно застревают и как объяснить так, чтобы стало понятно</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🎓 <strong>С ЧЕМ ПОМОГУ СТУДЕНТАМ</strong></p><p>✔️ <strong>Задачи на программирование</strong>: от первых циклов и массивов до сложных алгоритмов<br>✔️ <strong>Алгоритмы и структуры данных</strong>: сортировки, рекурсия, стеки, очереди, деревья, графы, динамическое программирование<br>✔️ <strong>ООП</strong>: классы, наследование, полиморфизм, интерфейсы, паттерны<br>✔️ <strong>Ошибки в коде</strong>: найду, почему не запускается или выдаёт не то, и покажу, как исправить<br>✔️ <strong>Базы данных</strong>: SQL-запросы, ER-диаграммы, нормализация, проектирование БД<br>✔️ <strong>Веб</strong>: HTML, CSS, JavaScript, простые сайты и формы, клиент и сервер<br>✔️ <strong>Excel и таблицы</strong>: формулы, сводные таблицы, графики, макросы VBA<br>✔️ <strong>Блок-схемы, UML и псевдокод</strong><br>✔️ <strong>Тестирование</strong>: unit-тесты, проверка граничных случаев<br>✔️ <strong>Документация и ТЗ</strong>: помогу разобраться с оформлением и структурой<br>✔️ <strong>Свой проект</strong>: объясню каждую строчку, чтобы вы уверенно рассказали, как он устроен</p><p>Работаю с заданиями любого курса, от первого до выпускного</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💻 <strong>ЯЗЫКИ И ТЕХНОЛОГИИ</strong></p><p>🔴 <strong>Python</strong>: ООП, файлы, Tkinter и PyQt, Flask, FastAPI, Django<br>🔴 <strong>C и C++</strong>: указатели, память, STL, алгоритмы<br>🔴 <strong>Java</strong>: ООП, коллекции, исключения, JUnit<br>🔴 <strong>C#</strong>: ООП, .NET, Windows Forms и WPF<br>🔴 <strong>Pascal и Delphi</strong><br>🔴 <strong>JavaScript и TypeScript</strong>, HTML и CSS, React<br>🔵 <strong>SQL</strong>: PostgreSQL, MySQL, SQLite, MS SQL<br>🔵 <strong>Excel, Google Таблицы, VBA</strong><br>🔵 <strong>Git, GitHub, Docker, Linux, bash</strong><br>🔵 <strong>Visual Studio, VS Code, PyCharm, IntelliJ IDEA</strong></p><p>Если вашего языка нет в списке, всё равно пишите, посмотрю задачу</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🤖 <strong>ИСПОЛЬЗОВАНИЕ AI</strong></p><p>В стандартном формате работы я использую современные AI-инструменты, включая <strong>Claude и другие модели</strong>, чтобы быстрее разбирать задачи, писать и проверять код</p><p>Если нужна <strong>полностью ручная работа без AI</strong>, стоимость увеличивается в <strong>2,5–3 раза</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>📋 <strong>КАК ПРОХОДИТ РАБОТА</strong></p><p>1️⃣ Скидываете задание, скрин или описываете своими словами<br>2️⃣ Сразу называю срок и стоимость<br>3️⃣ Показываю промежуточный результат<br>4️⃣ Отдаю и объясняю, как всё работает и как запустить</p><p>Срочно тоже можно, скажу заранее, сколько это будет стоить</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🧩 <strong>ТАКЖЕ ДЕЛАЮ ПОД КЛЮЧ</strong></p><p>Telegram-боты, сайты и лендинги, скрипты и парсинг, автоматизация Excel, небольшие десктопные программы</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💰 <strong>СТОИМОСТЬ</strong></p><p><strong>От 700 до 1000 ₽ в час</strong>, зависит от сложности<br>Точную сумму называю до начала</p><p>🛡️ <strong>ГАРАНТИИ И УСЛОВИЯ</strong></p><p>✔️ Обсуждение задачи бесплатно<br>✔️ Заказы от <strong>5000 ₽</strong>: предоплата <strong>50%</strong> только после промежуточного результата<br>✔️ <strong>Неделю после сдачи бесплатно исправляю свои ошибки</strong><br>✔️ Если ошибка по моей вине и исправить не вышло, верну <strong>до 50% стоимости</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🚫 <strong>НЕ БЕРУСЬ</strong></p><p>Вирусы, взломы, накрутки, спам и всё, что нарушает закон</p><p>📩 Напишите, что нужно, разберёмся</p>]]></Description>
     <Images>
       <Image url="https://raw.githubusercontent.com/kerico-0548/avito-feed/main/ads/programming/photos/01.jpg"/>
@@ -6790,12 +6799,15 @@
     <Price>700</Price>
     <Address>Томск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8396297731</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Разбор задачи или кода, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Сложные задачи и проекты, в час</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Обсуждение задачи</ServiceTitle><ServicePrice>0</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
+    <Promo>Manual</Promo>
+    <PromoManualOptions><Item><Bid>20</Bid><DailyLimit>60</DailyLimit></Item></PromoManualOptions>
     <Description><![CDATA[<p><strong>ПОМОЩЬ СТУДЕНТАМ С ПРОГРАММИРОВАНИЕМ</strong><br><strong>Обсуждение задачи бесплатно</strong></p><p>Учитесь на IT-направлении или просто попалась задача по программированию? Скиньте задание или скрин, разберём вместе: решение, код, ошибки и как всё это объяснить преподавателю</p><p>👨‍💻 <strong>О СЕБЕ</strong></p><p>Окончил с отличием московский вуз по направлению <strong>«Фундаментальная информатика и информационные технологии»</strong></p><p>💻 Программирую <strong>10 лет</strong><br>🎓 <strong>7 лет</strong> объясняю информатику и программирование студентам и школьникам<br>🛠 <strong>4 года</strong> беру заказы по разработке</p><p>Сам через всё это проходил, поэтому знаю, где обычно застревают и как объяснить так, чтобы стало понятно</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🎓 <strong>С ЧЕМ ПОМОГУ СТУДЕНТАМ</strong></p><p>✔️ <strong>Задачи на программирование</strong>: от первых циклов и массивов до сложных алгоритмов<br>✔️ <strong>Алгоритмы и структуры данных</strong>: сортировки, рекурсия, стеки, очереди, деревья, графы, динамическое программирование<br>✔️ <strong>ООП</strong>: классы, наследование, полиморфизм, интерфейсы, паттерны<br>✔️ <strong>Ошибки в коде</strong>: найду, почему не запускается или выдаёт не то, и покажу, как исправить<br>✔️ <strong>Базы данных</strong>: SQL-запросы, ER-диаграммы, нормализация, проектирование БД<br>✔️ <strong>Веб</strong>: HTML, CSS, JavaScript, простые сайты и формы, клиент и сервер<br>✔️ <strong>Excel и таблицы</strong>: формулы, сводные таблицы, графики, макросы VBA<br>✔️ <strong>Блок-схемы, UML и псевдокод</strong><br>✔️ <strong>Тестирование</strong>: unit-тесты, проверка граничных случаев<br>✔️ <strong>Документация и ТЗ</strong>: помогу разобраться с оформлением и структурой<br>✔️ <strong>Свой проект</strong>: объясню каждую строчку, чтобы вы уверенно рассказали, как он устроен</p><p>Работаю с заданиями любого курса, от первого до выпускного</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💻 <strong>ЯЗЫКИ И ТЕХНОЛОГИИ</strong></p><p>🔴 <strong>Python</strong>: ООП, файлы, Tkinter и PyQt, Flask, FastAPI, Django<br>🔴 <strong>C и C++</strong>: указатели, память, STL, алгоритмы<br>🔴 <strong>Java</strong>: ООП, коллекции, исключения, JUnit<br>🔴 <strong>C#</strong>: ООП, .NET, Windows Forms и WPF<br>🔴 <strong>Pascal и Delphi</strong><br>🔴 <strong>JavaScript и TypeScript</strong>, HTML и CSS, React<br>🔵 <strong>SQL</strong>: PostgreSQL, MySQL, SQLite, MS SQL<br>🔵 <strong>Excel, Google Таблицы, VBA</strong><br>🔵 <strong>Git, GitHub, Docker, Linux, bash</strong><br>🔵 <strong>Visual Studio, VS Code, PyCharm, IntelliJ IDEA</strong></p><p>Если вашего языка нет в списке, всё равно пишите, посмотрю задачу</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🤖 <strong>ИСПОЛЬЗОВАНИЕ AI</strong></p><p>В стандартном формате работы я использую современные AI-инструменты, включая <strong>Claude и другие модели</strong>, чтобы быстрее разбирать задачи, писать и проверять код</p><p>Если нужна <strong>полностью ручная работа без AI</strong>, стоимость увеличивается в <strong>2,5–3 раза</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>📋 <strong>КАК ПРОХОДИТ РАБОТА</strong></p><p>1️⃣ Скидываете задание, скрин или описываете своими словами<br>2️⃣ Сразу называю срок и стоимость<br>3️⃣ Показываю промежуточный результат<br>4️⃣ Отдаю и объясняю, как всё работает и как запустить</p><p>Срочно тоже можно, скажу заранее, сколько это будет стоить</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🧩 <strong>ТАКЖЕ ДЕЛАЮ ПОД КЛЮЧ</strong></p><p>Telegram-боты, сайты и лендинги, скрипты и парсинг, автоматизация Excel, небольшие десктопные программы</p><p>━━━━━━━━━━━━━━━━━━━━</p><p>💰 <strong>СТОИМОСТЬ</strong></p><p><strong>От 700 до 1000 ₽ в час</strong>, зависит от сложности<br>Точную сумму называю до начала</p><p>🛡️ <strong>ГАРАНТИИ И УСЛОВИЯ</strong></p><p>✔️ Обсуждение задачи бесплатно<br>✔️ Заказы от <strong>5000 ₽</strong>: предоплата <strong>50%</strong> только после промежуточного результата<br>✔️ <strong>Неделю после сдачи бесплатно исправляю свои ошибки</strong><br>✔️ Если ошибка по моей вине и исправить не вышло, верну <strong>до 50% стоимости</strong></p><p>━━━━━━━━━━━━━━━━━━━━</p><p>🚫 <strong>НЕ БЕРУСЬ</strong></p><p>Вирусы, взломы, накрутки, спам и всё, что нарушает закон</p><p>📩 Напишите, что нужно, разберёмся</p>]]></Description>
     <Images>
       <Image url="https://raw.githubusercontent.com/kerico-0548/avito-feed/main/ads/programming/photos/01.jpg"/>
@@ -6827,6 +6839,7 @@
     <Price>1500</Price>
     <Address>Волжский</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8433435960</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -6866,6 +6879,7 @@
     <Price>1500</Price>
     <Address>Вологда</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8441971421</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -6905,6 +6919,7 @@
     <Price>1500</Price>
     <Address>Смоленск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8392761856</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -6944,6 +6959,7 @@
     <Price>1500</Price>
     <Address>Саранск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8430417565</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -6983,6 +6999,7 @@
     <Price>1500</Price>
     <Address>Курган</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8522411708</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7022,6 +7039,7 @@
     <Price>1500</Price>
     <Address>Череповец</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8379212184</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7061,6 +7079,7 @@
     <Price>1500</Price>
     <Address>Архангельск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8522627425</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7100,6 +7119,7 @@
     <Price>1500</Price>
     <Address>Владикавказ</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8522679605</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7139,6 +7159,7 @@
     <Price>1500</Price>
     <Address>Нижневартовск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8522377320</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7178,6 +7199,7 @@
     <Price>1500</Price>
     <Address>Орёл</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8546932797</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7217,6 +7239,7 @@
     <Price>1500</Price>
     <Address>Йошкар-Ола</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8589507396</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7256,6 +7279,7 @@
     <Price>1500</Price>
     <Address>Стерлитамак</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8379631824</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7295,6 +7319,7 @@
     <Price>1500</Price>
     <Address>Мытищи</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8522255150</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7334,6 +7359,7 @@
     <Price>1500</Price>
     <Address>Кострома</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8495540545</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
@@ -7373,6 +7399,7 @@
     <Price>1500</Price>
     <Address>Мурманск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <AvitoId>8392613139</AvitoId>
     <DateBegin>2026-11-13T00:40:29+03:00</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
