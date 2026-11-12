@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "target": {
     "ml": 10,
     "programming": 10,
@@ -1189,7 +1189,10 @@
       "pricing": "new_tutoring_fixed_30_20261112",
       "bid_rub": 30,
       "daily_limit_rub": 90,
-      "scheduled_at": "2026-11-12T17:35:00+03:00"
+      "scheduled_at": "2030-01-01",
+      "publication_state": "awaiting_owner_bid_decision",
+      "minimum_manual_bid_rub": 36,
+      "required_daily_limit_rub": 108
     },
     {
       "autoload_id": "ai-course-moskva-m8262748487",
@@ -1301,5 +1304,12 @@
     "tutoring-top60-20261112-r58",
     "tutoring-top60-20261112-r59",
     "tutoring-top60-20261112-r60"
-  ]
+  ],
+  "pending_bid_decision": {
+    "autoload_id": "tutoring-top60-20261112-r60",
+    "city": "Подольск",
+    "requested_bid_rub": 30,
+    "minimum_manual_bid_rub": 36,
+    "daily_limit_rub": 108
+  }
 }

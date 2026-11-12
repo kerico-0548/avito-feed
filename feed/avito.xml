@@ -6618,7 +6618,7 @@
     <Price>1500</Price>
     <Address>Подольск</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <DateBegin>2026-11-12T17:35:00+03:00</DateBegin>
+    <DateBegin>2030-01-01</DateBegin>
     <PriceList>
       <Service><ServiceName>Подготовка к ЕГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Подготовка к ОГЭ</ServiceName><ServiceTitle></ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
