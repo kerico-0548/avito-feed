@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "target": {
     "tutoring": 75,
     "ml": 30,
     "programming": 30,
     "ai-course": 1,
-    "ai-lessons": 1
+    "ai-lessons": 0
   },
   "population_source": [
     "https://www.mojgorod.ru/cities/pop2025_1.html",
@@ -1205,19 +1205,6 @@
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
-      "autoload_id": "ai-lessons-moscow-1",
-      "direction": "ai-lessons",
-      "city": "Москва",
-      "rank": 1,
-      "existing": true,
-      "was_active": false,
-      "avito_id": 8250998203,
-      "pricing": "base_minimum_without_daily_limit",
-      "bid_rub": 21.6,
-      "daily_limit_rub": null,
-      "scheduled_at": "2026-11-12T17:35:00+03:00"
-    },
-    {
       "rank": 11,
       "city": "Самара",
       "population": 1154200,
@@ -2085,7 +2072,7 @@
   ],
   "pending_publication_time_moscow": null,
   "verified_active_pricing_count": 137,
-  "state": "verified_complete",
+  "state": "awaiting_single_unpublication",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -2126,7 +2113,7 @@
   "additional_tutoring_date": "2026-11-11T18:00:00+03:00",
   "additional_tutoring_count": 10,
   "active_count_at_preparation": 60,
-  "desired_active_count": 137,
+  "desired_active_count": 136,
   "tutoring_floor_update": {
     "verified_at_moscow": "2026-11-11T20:33:14+03:00",
     "changed_count": 22,
@@ -2430,5 +2417,35 @@
     "other_promotion_settings_unchanged": true,
     "supersedes_prior_tutoring_rates_for_selected_ids": true,
     "scope": "Active tutoring listings only; historical dated request records retained"
+  },
+  "disabled_listings": [
+    {
+      "autoload_id": "ai-lessons-moscow-1",
+      "direction": "ai-lessons",
+      "city": "Москва",
+      "rank": 1,
+      "existing": true,
+      "was_active": false,
+      "avito_id": 8250998203,
+      "pricing": "base_minimum_without_daily_limit",
+      "bid_rub": 21.6,
+      "daily_limit_rub": null,
+      "scheduled_at": "2026-11-12T17:35:00+03:00",
+      "publication_disabled": true,
+      "publication_state": "pending_unpublication",
+      "disabled_on": "2026-11-14",
+      "hold_date_begin": "2030-01-01"
+    }
+  ],
+  "unpublication_20261114": {
+    "avito_id": 8250998203,
+    "autoload_id": "ai-lessons-moscow-1",
+    "direction": "ai-lessons",
+    "city": "Москва",
+    "requested_at_moscow": "2026-11-14T03:31:49+03:00",
+    "previous_date_begin": "2026-11-12T17:35:00+03:00",
+    "hold_date_begin": "2030-01-01",
+    "state": "pending",
+    "other_listings_and_promotions_preserved": true
   }
 }

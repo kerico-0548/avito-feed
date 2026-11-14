@@ -795,7 +795,7 @@
     <Address>Москва</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <AvitoId>8250998203</AvitoId>
-    <DateBegin>2026-11-12T17:35:00+03:00</DateBegin>
+    <DateBegin>2030-01-01</DateBegin>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Занятие 30 минут</ServiceTitle><ServicePrice>1000</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Занятие 60 минут</ServiceTitle><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
