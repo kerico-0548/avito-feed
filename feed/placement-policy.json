@@ -2071,8 +2071,8 @@
     }
   ],
   "pending_publication_time_moscow": null,
-  "verified_active_pricing_count": 137,
-  "state": "awaiting_single_unpublication",
+  "verified_active_pricing_count": 136,
+  "state": "verified_complete",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -2105,10 +2105,10 @@
     "updated_on": "2026-11-13",
     "pricing": "base_minimum_without_daily_limit"
   },
-  "verified_at_moscow": "2026-11-13T17:28:32+03:00",
+  "verified_at_moscow": "2026-11-14T03:34:18+03:00",
   "manual_pricing_count": 133,
-  "base_minimum_exceptions_count": 4,
-  "active_count": 137,
+  "base_minimum_exceptions_count": 3,
+  "active_count": 136,
   "unwanted_active_count": 0,
   "additional_tutoring_date": "2026-11-11T18:00:00+03:00",
   "additional_tutoring_count": 10,
@@ -2432,9 +2432,10 @@
       "daily_limit_rub": null,
       "scheduled_at": "2026-11-12T17:35:00+03:00",
       "publication_disabled": true,
-      "publication_state": "pending_unpublication",
+      "publication_state": "unpublished",
       "disabled_on": "2026-11-14",
-      "hold_date_begin": "2030-01-01"
+      "hold_date_begin": "2030-01-01",
+      "actual_avito_status": "old"
     }
   ],
   "unpublication_20261114": {
@@ -2445,7 +2446,10 @@
     "requested_at_moscow": "2026-11-14T03:31:49+03:00",
     "previous_date_begin": "2026-11-12T17:35:00+03:00",
     "hold_date_begin": "2030-01-01",
-    "state": "pending",
-    "other_listings_and_promotions_preserved": true
+    "state": "verified_unpublished",
+    "other_listings_and_promotions_preserved": true,
+    "verified_at_moscow": "2026-11-14T03:34:18+03:00",
+    "actual_avito_status": "old",
+    "active_after": 136
   }
 }
