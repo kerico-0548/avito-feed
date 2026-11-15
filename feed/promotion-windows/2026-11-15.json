@@ -1,0 +1,4037 @@
+{
+  "window_id": "2026-11-15",
+  "account_id": 212278857,
+  "valid_from": "2026-11-15T00:00:00+03:00",
+  "restore_at": "2026-11-16T00:00:00+03:00",
+  "moscow_ml_programming_authorized_bid_rub": 31,
+  "items": [
+    {
+      "avito_id": 8609683573,
+      "autoload_id": "tutoring-top50-20261111-r42",
+      "direction": "tutoring",
+      "city": "Астрахань",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8609683573,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8607067331,
+      "autoload_id": "programming-top30-20261113-r29",
+      "direction": "programming",
+      "city": "Набережные Челны",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8607067331,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8589507396,
+      "autoload_id": "tutoring-top75-20261113-r71",
+      "direction": "tutoring",
+      "city": "Йошкар-Ола",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8589507396,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8577481922,
+      "autoload_id": "ml-khabarovsk-1",
+      "direction": "ml",
+      "city": "Хабаровск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8577481922,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8577474886,
+      "autoload_id": "tutoring-volgograd-1",
+      "direction": "tutoring",
+      "city": "Волгоград",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8577474886,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8577206412,
+      "autoload_id": "programming-ekaterinburg-1",
+      "direction": "programming",
+      "city": "Екатеринбург",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8577206412,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8576794181,
+      "autoload_id": "tutoring-top40-20251101-r40",
+      "direction": "tutoring",
+      "city": "Липецк",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8576794181,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8575687981,
+      "autoload_id": "programming-voronezh-1",
+      "direction": "programming",
+      "city": "Воронеж",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8575687981,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8549067615,
+      "autoload_id": "tutoring-top40-20251101-r32",
+      "direction": "tutoring",
+      "city": "Кемерово",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8549067615,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8548892145,
+      "autoload_id": "tutoring-top60-20261112-r57",
+      "direction": "tutoring",
+      "city": "Нижний Тагил",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8548892145,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8546932797,
+      "autoload_id": "tutoring-top75-20261113-r70",
+      "direction": "tutoring",
+      "city": "Орёл",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8546932797,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8546753087,
+      "autoload_id": "programming-top30-20261113-r27",
+      "direction": "programming",
+      "city": "Ярославль",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8546753087,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8546027167,
+      "autoload_id": "tutoring-top60-20261112-r53",
+      "direction": "tutoring",
+      "city": "Иваново",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8546027167,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8545913530,
+      "autoload_id": "tutoring-top50-20261111-r44",
+      "direction": "tutoring",
+      "city": "Сочи",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8545913530,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8545857338,
+      "autoload_id": "tutoring-top60-20261112-r56",
+      "direction": "tutoring",
+      "city": "Симферополь",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8545857338,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8544163151,
+      "autoload_id": "programming-krasnodar-1",
+      "direction": "programming",
+      "city": "Краснодар",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8544163151,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8543861363,
+      "autoload_id": "ml-help-tyumen-1",
+      "direction": "ml",
+      "city": "Тюмень",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8543861363,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8531145874,
+      "autoload_id": "programming-top30-20261113-r28",
+      "direction": "programming",
+      "city": "Ставрополь",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8531145874,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8523418223,
+      "autoload_id": "tutoring-top50-20261111-r45",
+      "direction": "tutoring",
+      "city": "Улан-Удэ",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8523418223,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8522679605,
+      "autoload_id": "tutoring-top75-20261113-r68",
+      "direction": "tutoring",
+      "city": "Владикавказ",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8522679605,
+        "manualPromotion": {
+          "bidPenny": 3000,
+          "limitPenny": 9000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 30,
+        "daily_limit": 90
+      },
+      "before_policy_fields": {
+        "bid_rub": 30,
+        "daily_limit_rub": 90,
+        "pricing": "new_tutoring_30_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 5000,
+        "limitPenny": 15000
+      }
+    },
+    {
+      "avito_id": 8522627425,
+      "autoload_id": "tutoring-top75-20261113-r67",
+      "direction": "tutoring",
+      "city": "Архангельск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8522627425,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8522411708,
+      "autoload_id": "tutoring-top75-20261113-r65",
+      "direction": "tutoring",
+      "city": "Курган",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8522411708,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8522377320,
+      "autoload_id": "tutoring-top75-20261113-r69",
+      "direction": "tutoring",
+      "city": "Нижневартовск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8522377320,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8522255150,
+      "autoload_id": "tutoring-top75-20261113-r73",
+      "direction": "tutoring",
+      "city": "Мытищи",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8522255150,
+        "manualPromotion": {
+          "bidPenny": 4600,
+          "limitPenny": 13800
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 46,
+        "daily_limit": 138
+      },
+      "before_policy_fields": {
+        "bid_rub": 46,
+        "daily_limit_rub": 138,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6600,
+        "limitPenny": 19800
+      }
+    },
+    {
+      "avito_id": 8521749165,
+      "autoload_id": "ml-stavropol-1",
+      "direction": "ml",
+      "city": "Ставрополь",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8521749165,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8520836378,
+      "autoload_id": "programming-saratov-1",
+      "direction": "programming",
+      "city": "Саратов",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8520836378,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8517680962,
+      "autoload_id": "ml-barnaul-1",
+      "direction": "ml",
+      "city": "Барнаул",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8517680962,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8505627938,
+      "autoload_id": "tutoring-top50-20261111-r43",
+      "direction": "tutoring",
+      "city": "Тула",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8505627938,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8502118962,
+      "autoload_id": "tutoring-top40-20251101-r29",
+      "direction": "tutoring",
+      "city": "Набережные Челны",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8502118962,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8499284252,
+      "autoload_id": "programming-novosibirsk-1",
+      "direction": "programming",
+      "city": "Новосибирск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8499284252,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8495540545,
+      "autoload_id": "tutoring-top75-20261113-r74",
+      "direction": "tutoring",
+      "city": "Кострома",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8495540545,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8495421587,
+      "autoload_id": "tutoring-top50-20261111-r49",
+      "direction": "tutoring",
+      "city": "Магнитогорск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8495421587,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8491675631,
+      "autoload_id": "tutoring-saratov-1",
+      "direction": "tutoring",
+      "city": "Саратов",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8491675631,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8491637725,
+      "autoload_id": "tutoring-voronezh-1",
+      "direction": "tutoring",
+      "city": "Воронеж",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8491637725,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8491135082,
+      "autoload_id": "programming-moskva-1",
+      "direction": "programming",
+      "city": "Москва",
+      "increment_rub": 10,
+      "before_promotion": null,
+      "baseline_base_bid_penny": 2180,
+      "before_source_promo": null,
+      "before_policy_fields": {
+        "bid_rub": 21.8,
+        "daily_limit_rub": null,
+        "pricing": "base_minimum_without_daily_limit"
+      },
+      "temporary_manual": {
+        "bidPenny": 3100,
+        "limitPenny": 9300
+      }
+    },
+    {
+      "avito_id": 8490846700,
+      "autoload_id": "programming-chelyabinsk-1",
+      "direction": "programming",
+      "city": "Челябинск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8490846700,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8490650384,
+      "autoload_id": "programming-volgograd-1",
+      "direction": "programming",
+      "city": "Волгоград",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8490650384,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8479391558,
+      "autoload_id": "ml-omsk-m8479391558",
+      "direction": "ml",
+      "city": "Омск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8479391558,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8472914353,
+      "autoload_id": "programming-rostov-1",
+      "direction": "programming",
+      "city": "Ростов-на-Дону",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8472914353,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8472696867,
+      "autoload_id": "tutoring-top60-20261112-r52",
+      "direction": "tutoring",
+      "city": "Брянск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8472696867,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8471828907,
+      "autoload_id": "tutoring-top40-20251101-r37",
+      "direction": "tutoring",
+      "city": "Чебоксары",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8471828907,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8469905198,
+      "autoload_id": "programming-ufa-1",
+      "direction": "programming",
+      "city": "Уфа",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8469905198,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8469710963,
+      "autoload_id": "tutoring-top60-20261112-r55",
+      "direction": "tutoring",
+      "city": "Чита",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8469710963,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8463607590,
+      "autoload_id": "programming-spb-1",
+      "direction": "programming",
+      "city": "Санкт-Петербург",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8463607590,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8463416277,
+      "autoload_id": "ml-togliatti-1",
+      "direction": "ml",
+      "city": "Тольятти",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8463416277,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8463216455,
+      "autoload_id": "ml-yaroslavl-1",
+      "direction": "ml",
+      "city": "Ярославль",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8463216455,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8463208523,
+      "autoload_id": "tutoring-tyumen-1",
+      "direction": "tutoring",
+      "city": "Тюмень",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8463208523,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8454431178,
+      "autoload_id": "tutoring-top60-20261112-r58",
+      "direction": "tutoring",
+      "city": "Калуга",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8454431178,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8454411889,
+      "autoload_id": "tutoring-top40-20251101-r35",
+      "direction": "tutoring",
+      "city": "Рязань",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8454411889,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8452024639,
+      "autoload_id": "tutoring-top50-20261111-r41",
+      "direction": "tutoring",
+      "city": "Киров",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8452024639,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8447896660,
+      "autoload_id": "tutoring-top40-20251101-r23",
+      "direction": "tutoring",
+      "city": "Хабаровск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8447896660,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8446604094,
+      "autoload_id": "tutoring-top50-20261111-r48",
+      "direction": "tutoring",
+      "city": "Тверь",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8446604094,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8446499417,
+      "autoload_id": "tutoring-top40-20251101-r30",
+      "direction": "tutoring",
+      "city": "Томск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8446499417,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8446031739,
+      "autoload_id": "tutoring-top40-20251101-r28",
+      "direction": "tutoring",
+      "city": "Ставрополь",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8446031739,
+        "manualPromotion": {
+          "bidPenny": 6000,
+          "limitPenny": 18000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 60,
+        "daily_limit": 180
+      },
+      "before_policy_fields": {
+        "bid_rub": 60,
+        "daily_limit_rub": 180,
+        "pricing": "tutoring_45_to_60_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 8000,
+        "limitPenny": 24000
+      }
+    },
+    {
+      "avito_id": 8445810420,
+      "autoload_id": "programming-krasnoyarsk-1",
+      "direction": "programming",
+      "city": "Красноярск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8445810420,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8445048283,
+      "autoload_id": "programming-barnaul-1",
+      "direction": "programming",
+      "city": "Барнаул",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8445048283,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8444991415,
+      "autoload_id": "programming-khabarovsk-1",
+      "direction": "programming",
+      "city": "Хабаровск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8444991415,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8442229014,
+      "autoload_id": "tutoring-top60-20261112-r60",
+      "direction": "tutoring",
+      "city": "Подольск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8442229014,
+        "manualPromotion": {
+          "bidPenny": 4600,
+          "limitPenny": 13800
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 46,
+        "daily_limit": 138
+      },
+      "before_policy_fields": {
+        "bid_rub": 46,
+        "daily_limit_rub": 138,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6600,
+        "limitPenny": 19800
+      }
+    },
+    {
+      "avito_id": 8441971421,
+      "autoload_id": "tutoring-top75-20261113-r62",
+      "direction": "tutoring",
+      "city": "Вологда",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8441971421,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8437154025,
+      "autoload_id": "programming-moscow-1",
+      "direction": "programming",
+      "city": "Казань",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8437154025,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8437094817,
+      "autoload_id": "tutoring-samara-1",
+      "direction": "tutoring",
+      "city": "Самара",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8437094817,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8433827775,
+      "autoload_id": "tutoring-top40-20251101-r38",
+      "direction": "tutoring",
+      "city": "Калининград",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8433827775,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8433435960,
+      "autoload_id": "tutoring-top75-20261113-r61",
+      "direction": "tutoring",
+      "city": "Волжский",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8433435960,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8430669158,
+      "autoload_id": "tutoring-top60-20261112-r51",
+      "direction": "tutoring",
+      "city": "Якутск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8430669158,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8430622077,
+      "autoload_id": "tutoring-top60-20261112-r59",
+      "direction": "tutoring",
+      "city": "Белгород",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8430622077,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8430417565,
+      "autoload_id": "tutoring-top75-20261113-r64",
+      "direction": "tutoring",
+      "city": "Саранск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8430417565,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8423019101,
+      "autoload_id": "tutoring-togliatti-1",
+      "direction": "tutoring",
+      "city": "Тольятти",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8423019101,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8420658077,
+      "autoload_id": "ml-ulyanovsk-1",
+      "direction": "ml",
+      "city": "Ульяновск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8420658077,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8420218945,
+      "autoload_id": "ml-tomsk-1",
+      "direction": "ml",
+      "city": "Томск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8420218945,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8414768062,
+      "autoload_id": "ml-chelny-1",
+      "direction": "ml",
+      "city": "Набережные Челны",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8414768062,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8414574481,
+      "autoload_id": "programming-vladivostok-1",
+      "direction": "programming",
+      "city": "Владивосток",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8414574481,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8414045550,
+      "autoload_id": "programming-ulyanovsk-1",
+      "direction": "programming",
+      "city": "Ульяновск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8414045550,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8410429867,
+      "autoload_id": "programming-perm-1",
+      "direction": "programming",
+      "city": "Пермь",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8410429867,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8407722845,
+      "autoload_id": "ml-krasnodar-m8407722845",
+      "direction": "ml",
+      "city": "Краснодар",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8407722845,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8406948441,
+      "autoload_id": "ml-volgograd-m8406948441",
+      "direction": "ml",
+      "city": "Волгоград",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8406948441,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8402250822,
+      "autoload_id": "tutoring-top40-20251101-r34",
+      "direction": "tutoring",
+      "city": "Новокузнецк",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8402250822,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8400778531,
+      "autoload_id": "programming-tyumen-1",
+      "direction": "programming",
+      "city": "Тюмень",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8400778531,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8400577249,
+      "autoload_id": "ml-irkutsk-1",
+      "direction": "ml",
+      "city": "Иркутск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8400577249,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8400315853,
+      "autoload_id": "programming-omsk-1",
+      "direction": "programming",
+      "city": "Омск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8400315853,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8398623834,
+      "autoload_id": "programming-izhevsk-1",
+      "direction": "programming",
+      "city": "Ижевск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8398623834,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8398370668,
+      "autoload_id": "ml-makhachkala-2",
+      "direction": "ml",
+      "city": "Махачкала",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8398370668,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8396406986,
+      "autoload_id": "tutoring-top60-20261112-r54",
+      "direction": "tutoring",
+      "city": "Владимир",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8396406986,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8396297731,
+      "autoload_id": "programming-top30-20261113-r30",
+      "direction": "programming",
+      "city": "Томск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8396297731,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8395816602,
+      "autoload_id": "tutoring-top40-20251101-r26",
+      "direction": "tutoring",
+      "city": "Владивосток",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8395816602,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8394289705,
+      "autoload_id": "tutoring-top40-20251101-r22",
+      "direction": "tutoring",
+      "city": "Ижевск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8394289705,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8394092526,
+      "autoload_id": "tutoring-top40-20251101-r27",
+      "direction": "tutoring",
+      "city": "Ярославль",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8394092526,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8392761856,
+      "autoload_id": "tutoring-top75-20261113-r63",
+      "direction": "tutoring",
+      "city": "Смоленск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8392761856,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8392613139,
+      "autoload_id": "tutoring-top75-20261113-r75",
+      "direction": "tutoring",
+      "city": "Мурманск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8392613139,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8392357688,
+      "autoload_id": "tutoring-top40-20251101-r31",
+      "direction": "tutoring",
+      "city": "Балашиха",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8392357688,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8392163644,
+      "autoload_id": "tutoring-top50-20261111-r46",
+      "direction": "tutoring",
+      "city": "Курск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8392163644,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8392113328,
+      "autoload_id": "tutoring-top50-20261111-r50",
+      "direction": "tutoring",
+      "city": "Грозный",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8392113328,
+        "manualPromotion": {
+          "bidPenny": 6000,
+          "limitPenny": 18000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 60,
+        "daily_limit": 180
+      },
+      "before_policy_fields": {
+        "bid_rub": 60,
+        "daily_limit_rub": 180,
+        "pricing": "tutoring_45_to_60_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 8000,
+        "limitPenny": 24000
+      }
+    },
+    {
+      "avito_id": 8380812752,
+      "autoload_id": "tutoring-top50-20261111-r47",
+      "direction": "tutoring",
+      "city": "Сургут",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8380812752,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8379977154,
+      "autoload_id": "tutoring-top40-20251101-r36",
+      "direction": "tutoring",
+      "city": "Севастополь",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8379977154,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8379972437,
+      "autoload_id": "tutoring-top40-20251101-r33",
+      "direction": "tutoring",
+      "city": "Оренбург",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8379972437,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8379631824,
+      "autoload_id": "tutoring-top75-20261113-r72",
+      "direction": "tutoring",
+      "city": "Стерлитамак",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8379631824,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8379212184,
+      "autoload_id": "tutoring-top75-20261113-r66",
+      "direction": "tutoring",
+      "city": "Череповец",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8379212184,
+        "manualPromotion": {
+          "bidPenny": 4000,
+          "limitPenny": 12000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 40,
+        "daily_limit": 120
+      },
+      "before_policy_fields": {
+        "bid_rub": 40,
+        "daily_limit_rub": 120,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 6000,
+        "limitPenny": 18000
+      }
+    },
+    {
+      "avito_id": 8379045508,
+      "autoload_id": "tutoring-top40-20251101-r39",
+      "direction": "tutoring",
+      "city": "Пенза",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8379045508,
+        "manualPromotion": {
+          "bidPenny": 7000,
+          "limitPenny": 21000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 70,
+        "daily_limit": 210
+      },
+      "before_policy_fields": {
+        "bid_rub": 70,
+        "daily_limit_rub": 210,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 9000,
+        "limitPenny": 27000
+      }
+    },
+    {
+      "avito_id": 8374096868,
+      "autoload_id": "ml-chelyabinsk-m8374096868",
+      "direction": "ml",
+      "city": "Челябинск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8374096868,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8372444666,
+      "autoload_id": "ml-vladivostok-1",
+      "direction": "ml",
+      "city": "Владивосток",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8372444666,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8370714313,
+      "autoload_id": "programming-nn-1",
+      "direction": "programming",
+      "city": "Нижний Новгород",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8370714313,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8367415107,
+      "autoload_id": "tutoring-top40-20251101-r21",
+      "direction": "tutoring",
+      "city": "Барнаул",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8367415107,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8364822011,
+      "autoload_id": "programming-irkutsk-1",
+      "direction": "programming",
+      "city": "Иркутск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8364822011,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8364019340,
+      "autoload_id": "ml-izhevsk-1",
+      "direction": "ml",
+      "city": "Ижевск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8364019340,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8360224447,
+      "autoload_id": "programming-samara-1",
+      "direction": "programming",
+      "city": "Самара",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8360224447,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8360059307,
+      "autoload_id": "tutoring-omsk-1",
+      "direction": "tutoring",
+      "city": "Омск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8360059307,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8349164915,
+      "autoload_id": "ml-kazan-m8349164915",
+      "direction": "ml",
+      "city": "Казань",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8349164915,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8347949702,
+      "autoload_id": "programming-makhachkala-1",
+      "direction": "programming",
+      "city": "Махачкала",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8347949702,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8347672541,
+      "autoload_id": "programming-togliatti-1",
+      "direction": "programming",
+      "city": "Тольятти",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8347672541,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8347643108,
+      "autoload_id": "tutoring-perm-1",
+      "direction": "tutoring",
+      "city": "Пермь",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8347643108,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8346775529,
+      "autoload_id": "ml-voronezh-m8346775529",
+      "direction": "ml",
+      "city": "Воронеж",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8346775529,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8341110771,
+      "autoload_id": "ml-samara-m8341110771",
+      "direction": "ml",
+      "city": "Самара",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8341110771,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8326627823,
+      "autoload_id": "ml-perm-m8326627823",
+      "direction": "ml",
+      "city": "Пермь",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8326627823,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8326359140,
+      "autoload_id": "ml-ufa-m8326359140",
+      "direction": "ml",
+      "city": "Уфа",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8326359140,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8314005233,
+      "autoload_id": "tutoring-krasnoyarsk-1",
+      "direction": "tutoring",
+      "city": "Красноярск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8314005233,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8312759442,
+      "autoload_id": "tutoring-ufa-1",
+      "direction": "tutoring",
+      "city": "Уфа",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8312759442,
+        "manualPromotion": {
+          "bidPenny": 13000,
+          "limitPenny": 39000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 130,
+        "daily_limit": 390
+      },
+      "before_policy_fields": {
+        "bid_rub": 130,
+        "daily_limit_rub": 390,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 15000,
+        "limitPenny": 45000
+      }
+    },
+    {
+      "avito_id": 8302238426,
+      "autoload_id": "ml-saratov-m8302238426",
+      "direction": "ml",
+      "city": "Саратов",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8302238426,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8294792978,
+      "autoload_id": "tutoring-krasnodar-m8294792978",
+      "direction": "tutoring",
+      "city": "Краснодар",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294792978,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8294704382,
+      "autoload_id": "ml-ekaterinburg-m8294704382",
+      "direction": "ml",
+      "city": "Екатеринбург",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294704382,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8294673096,
+      "autoload_id": "tutoring-rostov-1",
+      "direction": "tutoring",
+      "city": "Ростов-на-Дону",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294673096,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8294587560,
+      "autoload_id": "tutoring-kazan-1",
+      "direction": "tutoring",
+      "city": "Казань",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294587560,
+        "manualPromotion": {
+          "bidPenny": 13000,
+          "limitPenny": 39000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 130,
+        "daily_limit": 390
+      },
+      "before_policy_fields": {
+        "bid_rub": 130,
+        "daily_limit_rub": 390,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 15000,
+        "limitPenny": 45000
+      }
+    },
+    {
+      "avito_id": 8294581876,
+      "autoload_id": "ml-rostov-na-donu-m8294581876",
+      "direction": "ml",
+      "city": "Ростов-на-Дону",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294581876,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8294566494,
+      "autoload_id": "ml-krasnoyarsk-m8294566494",
+      "direction": "ml",
+      "city": "Красноярск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294566494,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8294423893,
+      "autoload_id": "tutoring-ekaterinburg-1",
+      "direction": "tutoring",
+      "city": "Екатеринбург",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294423893,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8294315923,
+      "autoload_id": "tutoring-nn-1",
+      "direction": "tutoring",
+      "city": "Нижний Новгород",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8294315923,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8294130483,
+      "autoload_id": "ml-moskva-m8294130483",
+      "direction": "ml",
+      "city": "Москва",
+      "increment_rub": 10,
+      "before_promotion": null,
+      "baseline_base_bid_penny": 2180,
+      "before_source_promo": null,
+      "before_policy_fields": {
+        "bid_rub": 21.8,
+        "daily_limit_rub": null,
+        "pricing": "base_minimum_without_daily_limit"
+      },
+      "temporary_manual": {
+        "bidPenny": 3100,
+        "limitPenny": 9300
+      }
+    },
+    {
+      "avito_id": 8284126947,
+      "autoload_id": "ml-novosibirsk-m8284126947",
+      "direction": "ml",
+      "city": "Новосибирск",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8284126947,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 8274229851,
+      "autoload_id": "tutoring-top40-20251101-r24",
+      "direction": "tutoring",
+      "city": "Ульяновск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8274229851,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8268727585,
+      "autoload_id": "tutoring-top40-20251101-r25",
+      "direction": "tutoring",
+      "city": "Иркутск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8268727585,
+        "manualPromotion": {
+          "bidPenny": 9000,
+          "limitPenny": 27000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 90,
+        "daily_limit": 270
+      },
+      "before_policy_fields": {
+        "bid_rub": 90,
+        "daily_limit_rub": 270,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 11000,
+        "limitPenny": 33000
+      }
+    },
+    {
+      "avito_id": 8262775097,
+      "autoload_id": "tutoring-novosibirsk-1",
+      "direction": "tutoring",
+      "city": "Новосибирск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8262775097,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 8262283953,
+      "autoload_id": "tutoring-chelyabinsk-m8262283953",
+      "direction": "tutoring",
+      "city": "Челябинск",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 8262283953,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 7878766745,
+      "autoload_id": "tutoring-moscow-1",
+      "direction": "tutoring",
+      "city": "Москва",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 7878766745,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    },
+    {
+      "avito_id": 7878466953,
+      "autoload_id": "ml-nizhniy-novgorod-m7878466953",
+      "direction": "ml",
+      "city": "Нижний Новгород",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 7878466953,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 7878433256,
+      "autoload_id": "ml-sankt-peterburg-m7878433256",
+      "direction": "ml",
+      "city": "Санкт-Петербург",
+      "increment_rub": 10,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 7878433256,
+        "manualPromotion": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 20,
+        "daily_limit": 60
+      },
+      "before_policy_fields": {
+        "bid_rub": 20,
+        "daily_limit_rub": 60,
+        "pricing": "fixed_20_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 3000,
+        "limitPenny": 9000
+      }
+    },
+    {
+      "avito_id": 7590759606,
+      "autoload_id": "tutoring-spb-1",
+      "direction": "tutoring",
+      "city": "Санкт-Петербург",
+      "increment_rub": 20,
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 7590759606,
+        "manualPromotion": {
+          "bidPenny": 11000,
+          "limitPenny": 33000
+        }
+      },
+      "baseline_base_bid_penny": null,
+      "before_source_promo": {
+        "bid": 110,
+        "daily_limit": 330
+      },
+      "before_policy_fields": {
+        "bid_rub": 110,
+        "daily_limit_rub": 330,
+        "pricing": "tutoring_plus_10_20261113"
+      },
+      "temporary_manual": {
+        "bidPenny": 13000,
+        "limitPenny": 39000
+      }
+    }
+  ],
+  "untouched": [
+    {
+      "avito_id": 8262748487,
+      "direction": "ai-course",
+      "city": "Москва",
+      "before_promotion": null
+    },
+    {
+      "avito_id": 7590820642,
+      "direction": "tutoring",
+      "city": "Махачкала",
+      "before_promotion": {
+        "actionTypeID": 5,
+        "itemID": 7590820642,
+        "manualPromotion": {
+          "bidPenny": 5000,
+          "limitPenny": 15000
+        }
+      }
+    }
+  ],
+  "baseline_active_ids": [
+    7590759606,
+    7590820642,
+    7878433256,
+    7878466953,
+    7878766745,
+    8262283953,
+    8262748487,
+    8262775097,
+    8268727585,
+    8274229851,
+    8284126947,
+    8294130483,
+    8294315923,
+    8294423893,
+    8294566494,
+    8294581876,
+    8294587560,
+    8294673096,
+    8294704382,
+    8294792978,
+    8302238426,
+    8312759442,
+    8314005233,
+    8326359140,
+    8326627823,
+    8341110771,
+    8346775529,
+    8347643108,
+    8347672541,
+    8347949702,
+    8349164915,
+    8360059307,
+    8360224447,
+    8364019340,
+    8364822011,
+    8367415107,
+    8370714313,
+    8372444666,
+    8374096868,
+    8379045508,
+    8379212184,
+    8379631824,
+    8379972437,
+    8379977154,
+    8380812752,
+    8392113328,
+    8392163644,
+    8392357688,
+    8392613139,
+    8392761856,
+    8394092526,
+    8394289705,
+    8395816602,
+    8396297731,
+    8396406986,
+    8398370668,
+    8398623834,
+    8400315853,
+    8400577249,
+    8400778531,
+    8402250822,
+    8406948441,
+    8407722845,
+    8410429867,
+    8414045550,
+    8414574481,
+    8414768062,
+    8420218945,
+    8420658077,
+    8423019101,
+    8430417565,
+    8430622077,
+    8430669158,
+    8433435960,
+    8433827775,
+    8437094817,
+    8437154025,
+    8441971421,
+    8442229014,
+    8444991415,
+    8445048283,
+    8445810420,
+    8446031739,
+    8446499417,
+    8446604094,
+    8447896660,
+    8452024639,
+    8454411889,
+    8454431178,
+    8463208523,
+    8463216455,
+    8463416277,
+    8463607590,
+    8469710963,
+    8469905198,
+    8471828907,
+    8472696867,
+    8472914353,
+    8479391558,
+    8490650384,
+    8490846700,
+    8491135082,
+    8491637725,
+    8491675631,
+    8495421587,
+    8495540545,
+    8499284252,
+    8502118962,
+    8505627938,
+    8517680962,
+    8520836378,
+    8521749165,
+    8522255150,
+    8522377320,
+    8522411708,
+    8522627425,
+    8522679605,
+    8523418223,
+    8531145874,
+    8543861363,
+    8544163151,
+    8545857338,
+    8545913530,
+    8546027167,
+    8546753087,
+    8546932797,
+    8548892145,
+    8549067615,
+    8575687981,
+    8576794181,
+    8577206412,
+    8577474886,
+    8577481922,
+    8589507396,
+    8607067331,
+    8609683573
+  ],
+  "baseline_manual_count": 133,
+  "before_total_manual_daily_limit_rub": 19506.0,
+  "temporary_total_manual_daily_limit_rub": 25872.0
+}
