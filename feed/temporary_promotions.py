@@ -11,6 +11,7 @@ from datetime import datetime, timezone, timedelta
 import json
 from pathlib import Path
 import re
+import shutil
 import subprocess
 import sys
 import threading
@@ -226,8 +227,18 @@ def save_sources(plan, out, restore, phase):
 
 
 def git_sync(out, message):
+    git_exe = shutil.which('git')
+    if git_exe is None:
+        # Task Scheduler does not inherit the Codex app's augmented PATH.
+        candidates = [
+            Path.home() / '.cache/codex-runtimes/codex-primary-runtime/dependencies/native/git/cmd/git.exe',
+            Path('C:/Program Files/Git/cmd/git.exe'),
+        ]
+        git_exe = next((str(path) for path in candidates if path.is_file()), None)
+    if git_exe is None:
+        raise FileNotFoundError('Git executable unavailable; live restoration can still proceed')
     def git(*args):
-        return subprocess.check_output(['git', *args], cwd=ROOT, stderr=subprocess.STDOUT, **GIT_FLAGS)
+        return subprocess.check_output([git_exe, *args], cwd=ROOT, stderr=subprocess.STDOUT, **GIT_FLAGS)
     staged = git('diff', '--cached', '--name-only').decode().splitlines()
     assert set(staged) <= set(SOURCES), 'Other staged work must not be committed'
     git('add', '--', *SOURCES)
