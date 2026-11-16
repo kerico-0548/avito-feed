@@ -1060,9 +1060,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8430669158,
-      "pricing": "zero_week_views_20261116",
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1074,9 +1074,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8472696867,
-      "pricing": "tutoring_plus_10_20261113",
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1088,9 +1088,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8546027167,
-      "pricing": "tutoring_plus_10_20261113",
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1102,9 +1102,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8396406986,
-      "pricing": "tutoring_plus_10_20261113",
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1116,9 +1116,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8469710963,
-      "pricing": "zero_week_views_20261116",
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1130,9 +1130,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8545857338,
-      "pricing": "tutoring_plus_10_20261113",
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1144,9 +1144,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8548892145,
-      "pricing": "zero_week_views_20261116",
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1158,9 +1158,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8454431178,
-      "pricing": "zero_week_views_20261116",
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1172,9 +1172,9 @@
       "existing": false,
       "was_active": false,
       "avito_id": 8430622077,
-      "pricing": "zero_week_views_20261116",
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
+      "pricing": "tutoring_floor60_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
       "scheduled_at": "2026-11-12T17:35:00+03:00"
     },
     {
@@ -1853,9 +1853,9 @@
       "avito_id": 8433435960,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1868,9 +1868,9 @@
       "avito_id": 8441971421,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1883,9 +1883,9 @@
       "avito_id": 8392761856,
       "was_active": false,
       "restored": false,
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
-      "pricing": "tutoring_plus_10_20261113",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1898,9 +1898,9 @@
       "avito_id": 8430417565,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1913,9 +1913,9 @@
       "avito_id": 8522411708,
       "was_active": false,
       "restored": false,
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
-      "pricing": "tutoring_plus_10_20261113",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1928,9 +1928,9 @@
       "avito_id": 8379212184,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1943,9 +1943,9 @@
       "avito_id": 8522627425,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1958,9 +1958,9 @@
       "avito_id": 8522679605,
       "was_active": false,
       "restored": false,
-      "bid_rub": 30,
-      "daily_limit_rub": 90,
-      "pricing": "new_tutoring_30_20261113",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1973,9 +1973,9 @@
       "avito_id": 8522377320,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -1988,9 +1988,9 @@
       "avito_id": 8546932797,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -2003,9 +2003,9 @@
       "avito_id": 8589507396,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -2018,9 +2018,9 @@
       "avito_id": 8379631824,
       "was_active": false,
       "restored": false,
-      "bid_rub": 40,
-      "daily_limit_rub": 120,
-      "pricing": "tutoring_plus_10_20261113",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -2048,9 +2048,9 @@
       "avito_id": 8495540545,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     },
@@ -2063,9 +2063,9 @@
       "avito_id": 8392613139,
       "was_active": false,
       "restored": false,
-      "bid_rub": 55,
-      "daily_limit_rub": 165,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 60,
+      "daily_limit_rub": 180,
+      "pricing": "tutoring_floor60_20261116",
       "scheduled_at": "2026-11-13T00:40:29+03:00",
       "publication_hold": false
     }
@@ -2105,7 +2105,7 @@
     "updated_on": "2026-11-13",
     "pricing": "base_minimum_without_daily_limit"
   },
-  "verified_at_moscow": "2026-11-16T09:06:38+03:00",
+  "verified_at_moscow": "2026-11-16T09:42:08+03:00",
   "manual_pricing_count": 134,
   "base_minimum_exceptions_count": 2,
   "active_count": 136,
@@ -2578,5 +2578,58 @@
     "verified_at_moscow": "2026-11-16T09:06:38+03:00",
     "one_time_change": true,
     "not_scheduled_to_restore": true
+  },
+  "tutoring_minimum_bid_rub": 60,
+  "tutoring_floor_excluded_cities": [
+    "Махачкала",
+    "Грозный"
+  ],
+  "tutoring_floor60_20261116": {
+    "minimum_bid_rub": 60,
+    "daily_limit_rub_for_raised": 180,
+    "changed_count": 23,
+    "excluded_cities": [
+      {
+        "city": "Грозный",
+        "avito_id": 8392113328,
+        "bid_rub": 75.0,
+        "daily_limit_rub": 225.0
+      },
+      {
+        "city": "Махачкала",
+        "avito_id": 7590820642,
+        "bid_rub": 65.0,
+        "daily_limit_rub": 195.0
+      }
+    ],
+    "higher_bids_preserved": true,
+    "other_directions_preserved": true,
+    "avito_ids": [
+      8589507396,
+      8548892145,
+      8546932797,
+      8546027167,
+      8545857338,
+      8522679605,
+      8522627425,
+      8522411708,
+      8522377320,
+      8495540545,
+      8472696867,
+      8469710963,
+      8454431178,
+      8441971421,
+      8433435960,
+      8430669158,
+      8430622077,
+      8430417565,
+      8396406986,
+      8392761856,
+      8392613139,
+      8379631824,
+      8379212184
+    ],
+    "verified_at_moscow": "2026-11-16T09:42:08+03:00",
+    "permanent_floor": true
   }
 }
