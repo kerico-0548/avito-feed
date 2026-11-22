@@ -2932,7 +2932,7 @@
   ],
   "pending_publication_time_moscow": null,
   "verified_active_pricing_count": 176,
-  "state": "awaiting_20_new_publications_20261122",
+  "state": "waiting_for_avito_publication",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -5412,7 +5412,7 @@
     "added_ml": 10,
     "added_programming": 10,
     "pricing": "base_minimum_without_daily_limit",
-    "state": "pending",
+    "state": "accepted_waiting_for_avito_publication",
     "autoload_ids": [
       "ml-top60-20261122-r51",
       "ml-top60-20261122-r52",
@@ -5434,6 +5434,11 @@
       "programming-top60-20261122-r58",
       "programming-top60-20261122-r59",
       "programming-top60-20261122-r60"
-    ]
+    ],
+    "observed_active": 176,
+    "observed_new_active": 0,
+    "upload_id": 638957761,
+    "checked_at_moscow": "2026-11-22T12:30:23+03:00",
+    "existing_promotions_verified_unchanged": 176
   }
 }
