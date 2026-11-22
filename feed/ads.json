@@ -2478,5 +2478,145 @@
     },
     "note": "Дополнительное размещение по запросу владельца 21.11.2026: 10 ₽ либо базовая минимальная цена Авито",
     "avito_id": 8434017047
+  },
+  {
+    "id": "ml-top60-20261122-r51",
+    "direction": "ml",
+    "city": "Якутск",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r52",
+    "direction": "ml",
+    "city": "Брянск",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r53",
+    "direction": "ml",
+    "city": "Иваново",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r54",
+    "direction": "ml",
+    "city": "Владимир",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r55",
+    "direction": "ml",
+    "city": "Чита",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r56",
+    "direction": "ml",
+    "city": "Симферополь",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r57",
+    "direction": "ml",
+    "city": "Нижний Тагил",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r58",
+    "direction": "ml",
+    "city": "Калуга",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r59",
+    "direction": "ml",
+    "city": "Белгород",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top60-20261122-r60",
+    "direction": "ml",
+    "city": "Подольск",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r51",
+    "direction": "programming",
+    "city": "Якутск",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r52",
+    "direction": "programming",
+    "city": "Брянск",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r53",
+    "direction": "programming",
+    "city": "Иваново",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r54",
+    "direction": "programming",
+    "city": "Владимир",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r55",
+    "direction": "programming",
+    "city": "Чита",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r56",
+    "direction": "programming",
+    "city": "Симферополь",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r57",
+    "direction": "programming",
+    "city": "Нижний Тагил",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r58",
+    "direction": "programming",
+    "city": "Калуга",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r59",
+    "direction": "programming",
+    "city": "Белгород",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top60-20261122-r60",
+    "direction": "programming",
+    "city": "Подольск",
+    "date_begin": "2026-11-22T12:27:17+03:00",
+    "promo": null
   }
 ]

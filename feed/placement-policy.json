@@ -2,8 +2,8 @@
   "updated_at": "2026-11-22",
   "target": {
     "tutoring": 75,
-    "ml": 50,
-    "programming": 50,
+    "ml": 60,
+    "programming": 60,
     "ai-course": 1,
     "ai-lessons": 0
   },
@@ -2708,11 +2708,231 @@
       "pricing": "new_20_rub_20261122",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r51",
+      "direction": "ml",
+      "city": "Якутск",
+      "rank": 51,
+      "population": 372800,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r52",
+      "direction": "ml",
+      "city": "Брянск",
+      "rank": 52,
+      "population": 372100,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r53",
+      "direction": "ml",
+      "city": "Иваново",
+      "rank": 53,
+      "population": 356700,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r54",
+      "direction": "ml",
+      "city": "Владимир",
+      "rank": 54,
+      "population": 341600,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r55",
+      "direction": "ml",
+      "city": "Чита",
+      "rank": 55,
+      "population": 337100,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r56",
+      "direction": "ml",
+      "city": "Симферополь",
+      "rank": 56,
+      "population": 335000,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r57",
+      "direction": "ml",
+      "city": "Нижний Тагил",
+      "rank": 57,
+      "population": 328200,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r58",
+      "direction": "ml",
+      "city": "Калуга",
+      "rank": 58,
+      "population": 325000,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r59",
+      "direction": "ml",
+      "city": "Белгород",
+      "rank": 59,
+      "population": 321800,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "ml-top60-20261122-r60",
+      "direction": "ml",
+      "city": "Подольск",
+      "rank": 60,
+      "population": 313400,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r51",
+      "direction": "programming",
+      "city": "Якутск",
+      "rank": 51,
+      "population": 372800,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r52",
+      "direction": "programming",
+      "city": "Брянск",
+      "rank": 52,
+      "population": 372100,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r53",
+      "direction": "programming",
+      "city": "Иваново",
+      "rank": 53,
+      "population": 356700,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r54",
+      "direction": "programming",
+      "city": "Владимир",
+      "rank": 54,
+      "population": 341600,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r55",
+      "direction": "programming",
+      "city": "Чита",
+      "rank": 55,
+      "population": 337100,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r56",
+      "direction": "programming",
+      "city": "Симферополь",
+      "rank": 56,
+      "population": 335000,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r57",
+      "direction": "programming",
+      "city": "Нижний Тагил",
+      "rank": 57,
+      "population": 328200,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r58",
+      "direction": "programming",
+      "city": "Калуга",
+      "rank": 58,
+      "population": 325000,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r59",
+      "direction": "programming",
+      "city": "Белгород",
+      "rank": 59,
+      "population": 321800,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
+    },
+    {
+      "autoload_id": "programming-top60-20261122-r60",
+      "direction": "programming",
+      "city": "Подольск",
+      "rank": 60,
+      "population": 313400,
+      "avito_id": null,
+      "bid_rub": null,
+      "daily_limit_rub": null,
+      "pricing": "base_minimum_pending_check_20261122"
     }
   ],
   "pending_publication_time_moscow": null,
   "verified_active_pricing_count": 176,
-  "state": "verified_complete",
+  "state": "awaiting_20_new_publications_20261122",
   "direction_override_rub": {
     "ml": {
       "bid": 20,
@@ -2753,7 +2973,7 @@
   "additional_tutoring_date": "2026-11-11T18:00:00+03:00",
   "additional_tutoring_count": 10,
   "active_count_at_preparation": 60,
-  "desired_active_count": 176,
+  "desired_active_count": 196,
   "tutoring_floor_update": {
     "verified_at_moscow": "2026-11-11T20:33:14+03:00",
     "changed_count": 22,
@@ -5186,6 +5406,34 @@
       8639745897,
       8641487006,
       8641701345
+    ]
+  },
+  "expansion20_20261122": {
+    "added_ml": 10,
+    "added_programming": 10,
+    "pricing": "base_minimum_without_daily_limit",
+    "state": "pending",
+    "autoload_ids": [
+      "ml-top60-20261122-r51",
+      "ml-top60-20261122-r52",
+      "ml-top60-20261122-r53",
+      "ml-top60-20261122-r54",
+      "ml-top60-20261122-r55",
+      "ml-top60-20261122-r56",
+      "ml-top60-20261122-r57",
+      "ml-top60-20261122-r58",
+      "ml-top60-20261122-r59",
+      "ml-top60-20261122-r60",
+      "programming-top60-20261122-r51",
+      "programming-top60-20261122-r52",
+      "programming-top60-20261122-r53",
+      "programming-top60-20261122-r54",
+      "programming-top60-20261122-r55",
+      "programming-top60-20261122-r56",
+      "programming-top60-20261122-r57",
+      "programming-top60-20261122-r58",
+      "programming-top60-20261122-r59",
+      "programming-top60-20261122-r60"
     ]
   }
 }
