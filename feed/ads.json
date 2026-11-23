@@ -2693,5 +2693,285 @@
       "daily_limit": 75.0
     },
     "avito_id": 8578069970
+  },
+  {
+    "id": "ml-top80-20261123-r61",
+    "direction": "ml",
+    "city": "Волжский",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r62",
+    "direction": "ml",
+    "city": "Вологда",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r63",
+    "direction": "ml",
+    "city": "Смоленск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r64",
+    "direction": "ml",
+    "city": "Саранск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r65",
+    "direction": "ml",
+    "city": "Курган",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r66",
+    "direction": "ml",
+    "city": "Череповец",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r67",
+    "direction": "ml",
+    "city": "Архангельск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r68",
+    "direction": "ml",
+    "city": "Владикавказ",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r69",
+    "direction": "ml",
+    "city": "Нижневартовск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r70",
+    "direction": "ml",
+    "city": "Орёл",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r71",
+    "direction": "ml",
+    "city": "Йошкар-Ола",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r72",
+    "direction": "ml",
+    "city": "Стерлитамак",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r73",
+    "direction": "ml",
+    "city": "Мытищи",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r74",
+    "direction": "ml",
+    "city": "Кострома",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r75",
+    "direction": "ml",
+    "city": "Мурманск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r76",
+    "direction": "ml",
+    "city": "Новороссийск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r77",
+    "direction": "ml",
+    "city": "Химки",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r78",
+    "direction": "ml",
+    "city": "Тамбов",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r79",
+    "direction": "ml",
+    "city": "Нальчик",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "ml-top80-20261123-r80",
+    "direction": "ml",
+    "city": "Нижнекамск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r61",
+    "direction": "programming",
+    "city": "Волжский",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r62",
+    "direction": "programming",
+    "city": "Вологда",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r63",
+    "direction": "programming",
+    "city": "Смоленск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r64",
+    "direction": "programming",
+    "city": "Саранск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r65",
+    "direction": "programming",
+    "city": "Курган",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r66",
+    "direction": "programming",
+    "city": "Череповец",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r67",
+    "direction": "programming",
+    "city": "Архангельск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r68",
+    "direction": "programming",
+    "city": "Владикавказ",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r69",
+    "direction": "programming",
+    "city": "Нижневартовск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r70",
+    "direction": "programming",
+    "city": "Орёл",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r71",
+    "direction": "programming",
+    "city": "Йошкар-Ола",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r72",
+    "direction": "programming",
+    "city": "Стерлитамак",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r73",
+    "direction": "programming",
+    "city": "Мытищи",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r74",
+    "direction": "programming",
+    "city": "Кострома",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r75",
+    "direction": "programming",
+    "city": "Мурманск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r76",
+    "direction": "programming",
+    "city": "Новороссийск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r77",
+    "direction": "programming",
+    "city": "Химки",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r78",
+    "direction": "programming",
+    "city": "Тамбов",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r79",
+    "direction": "programming",
+    "city": "Нальчик",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
+  },
+  {
+    "id": "programming-top80-20261123-r80",
+    "direction": "programming",
+    "city": "Нижнекамск",
+    "date_begin": "2026-11-23T18:06:51+03:00",
+    "promo": null
   }
 ]
