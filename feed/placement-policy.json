@@ -2082,8 +2082,12 @@
       "bid_rub": 30.5,
       "daily_limit_rub": null,
       "pricing": "tiered_ml_programming_20261123",
-      "publication_hold": false,
-      "scheduled_at": "2026-11-21T02:08:45+03:00"
+      "publication_hold": true,
+      "scheduled_at": "2026-11-21T02:08:45+03:00",
+      "publication_disabled": true,
+      "permanently_excluded": true,
+      "publication_state": "pending_unpublication",
+      "hold_date_begin": "2030-01-01"
     },
     {
       "autoload_id": "ml-top50-20261121-r32",
@@ -2817,7 +2821,12 @@
       "avito_id": 8534557466,
       "bid_rub": 30.5,
       "daily_limit_rub": null,
-      "pricing": "tiered_ml_programming_20261123"
+      "pricing": "tiered_ml_programming_20261123",
+      "publication_disabled": true,
+      "permanently_excluded": true,
+      "publication_hold": true,
+      "publication_state": "pending_unpublication",
+      "hold_date_begin": "2030-01-01"
     },
     {
       "autoload_id": "programming-top60-20261122-r51",
@@ -8259,5 +8268,43 @@
       "programming-top80-20261123-r79",
       "programming-top80-20261123-r80"
     ]
+  },
+  "permanent_exclusions": [
+    {
+      "direction": "ml",
+      "city": "Балашиха",
+      "autoload_id": "ml-top50-20261121-r31",
+      "avito_id": 8641701345,
+      "reason": "promotion_above_25_rub"
+    },
+    {
+      "direction": "ml",
+      "city": "Подольск",
+      "autoload_id": "ml-top60-20261122-r60",
+      "avito_id": 8534557466,
+      "reason": "promotion_above_25_rub"
+    }
+  ],
+  "ml_programming_maximum_promotion_rub": 25,
+  "disable_over25_20261123": {
+    "state": "pending_unpublication",
+    "selected": [
+      {
+        "avito_id": 8641701345,
+        "autoload_id": "ml-top50-20261121-r31",
+        "direction": "ml",
+        "city": "Балашиха",
+        "bid_rub": 30.5
+      },
+      {
+        "avito_id": 8534557466,
+        "autoload_id": "ml-top60-20261122-r60",
+        "direction": "ml",
+        "city": "Подольск",
+        "bid_rub": 30.5
+      }
+    ],
+    "requested_at": "2026-11-23T18:25:46+03:00",
+    "never_republish": true
   }
 }

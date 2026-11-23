@@ -64,8 +64,14 @@ def main():
     ads = json.loads((ROOT / "feed/ads.json").read_text(encoding="utf-8"))
     errors, seen, out = [], set(), []
 
+    policy_path = ROOT / "feed/placement-policy.json"
+    policy = json.loads(policy_path.read_text(encoding="utf-8")) if policy_path.exists() else {}
+    excluded_pairs = {(x["direction"], x["city"]) for x in policy.get("permanent_exclusions", [])}
     for ad in ads:
         aid, d = ad["id"], ad["direction"]
+        # Retain history while preventing publication even under a new ID.
+        if ad.get("permanently_excluded") or (d, ad["city"]) in excluded_pairs:
+            ad = dict(ad, date_begin="2030-01-01")
         if aid in seen:
             errors.append(f"{aid}: повтор Id")
         seen.add(aid)

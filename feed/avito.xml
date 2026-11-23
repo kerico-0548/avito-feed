@@ -7444,7 +7444,7 @@
     <Price>700</Price>
     <Address>Балашиха</Address>
     <AvitoId>8641701345</AvitoId>
-    <DateBegin>2026-11-21T02:08:45+03:00</DateBegin>
+    <DateBegin>2030-01-01</DateBegin>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Базовые задачи, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
@@ -9511,7 +9511,7 @@
     <Price>700</Price>
     <Address>Подольск</Address>
     <AvitoId>8534557466</AvitoId>
-    <DateBegin>2026-11-22T12:27:17+03:00</DateBegin>
+    <DateBegin>2030-01-01</DateBegin>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <PriceList>
       <Service><ServiceName>Своя услуга</ServiceName><ServiceTitle>Базовые задачи, в час</ServiceTitle><ServicePrice>700</ServicePrice><ServiceStartingPrice>Нет</ServiceStartingPrice><ServicePriceType>за час</ServicePriceType></Service>
