@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22",
+  "updated_at": "2026-11-23",
   "target": {
     "tutoring": 75,
     "ml": 60,
@@ -24,9 +24,9 @@
       "direction": "ml",
       "existing": true,
       "avito_id": 8294130483,
-      "bid_rub": 21.8,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_without_daily_limit",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-moskva-m8294130483"
@@ -40,7 +40,7 @@
       "avito_id": 7878433256,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-sankt-peterburg-m7878433256"
@@ -54,7 +54,7 @@
       "avito_id": 8284126947,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-novosibirsk-m8284126947"
@@ -66,9 +66,9 @@
       "direction": "ml",
       "existing": true,
       "avito_id": 8294704382,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-ekaterinburg-m8294704382"
@@ -82,7 +82,7 @@
       "avito_id": 8349164915,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-kazan-m8349164915"
@@ -96,7 +96,7 @@
       "avito_id": 8294566494,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-krasnoyarsk-m8294566494"
@@ -110,7 +110,7 @@
       "avito_id": 7878466953,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-nizhniy-novgorod-m7878466953"
@@ -122,9 +122,9 @@
       "direction": "ml",
       "existing": true,
       "avito_id": 8374096868,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-chelyabinsk-m8374096868"
@@ -136,9 +136,9 @@
       "direction": "ml",
       "existing": true,
       "avito_id": 8326359140,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-ufa-m8326359140"
@@ -152,7 +152,7 @@
       "avito_id": 8407722845,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "ml-krasnodar-m8407722845"
@@ -164,9 +164,9 @@
       "direction": "programming",
       "existing": true,
       "avito_id": 8491135082,
-      "bid_rub": 26,
-      "daily_limit_rub": 78,
-      "pricing": "zero_week_views_20261116",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-moskva-1"
@@ -180,7 +180,7 @@
       "avito_id": 8463607590,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-spb-1"
@@ -192,9 +192,9 @@
       "direction": "programming",
       "existing": true,
       "avito_id": 8499284252,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-novosibirsk-1"
@@ -206,9 +206,9 @@
       "direction": "programming",
       "existing": true,
       "avito_id": 8577206412,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-ekaterinburg-1"
@@ -222,7 +222,7 @@
       "avito_id": 8437154025,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": false,
       "restored": true,
       "autoload_id": "programming-moscow-1",
@@ -237,7 +237,7 @@
       "avito_id": 8445810420,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-krasnoyarsk-1"
@@ -251,7 +251,7 @@
       "avito_id": 8370714313,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-nn-1"
@@ -265,7 +265,7 @@
       "avito_id": 8490846700,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-chelyabinsk-1"
@@ -279,7 +279,7 @@
       "avito_id": 8469905198,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-ufa-1"
@@ -291,9 +291,9 @@
       "direction": "programming",
       "existing": true,
       "avito_id": 8544163151,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "was_active": true,
       "restored": false,
       "autoload_id": "programming-krasnodar-1"
@@ -1215,9 +1215,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1231,9 +1231,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1247,9 +1247,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1263,9 +1263,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1281,7 +1281,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1295,9 +1295,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1311,9 +1311,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1327,9 +1327,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1345,7 +1345,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1359,9 +1359,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1375,9 +1375,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1391,9 +1391,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1409,7 +1409,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1425,7 +1425,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1441,7 +1441,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1457,7 +1457,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1473,7 +1473,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1489,7 +1489,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1503,9 +1503,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1519,9 +1519,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1537,7 +1537,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1551,9 +1551,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1567,9 +1567,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1583,9 +1583,9 @@
       "desired_limit": 60,
       "was_active": false,
       "restored": true,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "fixed_20_20261113",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1601,7 +1601,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1617,7 +1617,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1633,7 +1633,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1649,7 +1649,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1665,7 +1665,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1681,7 +1681,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1697,7 +1697,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1713,7 +1713,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1729,7 +1729,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1745,7 +1745,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1761,7 +1761,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1777,7 +1777,7 @@
       "restored": true,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1793,7 +1793,7 @@
       "restored": false,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1809,7 +1809,7 @@
       "restored": false,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1825,7 +1825,7 @@
       "restored": false,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -1841,7 +1841,7 @@
       "restored": false,
       "bid_rub": 25,
       "daily_limit_rub": 75,
-      "pricing": "zero_week_views_20261116",
+      "pricing": "tiered_ml_programming_20261123",
       "scheduled_at": "2026-11-13T00:40:29+03:00"
     },
     {
@@ -2081,7 +2081,7 @@
       "existing": false,
       "bid_rub": 30.5,
       "daily_limit_rub": null,
-      "pricing": "base_minimum_without_daily_limit",
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2095,9 +2095,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2111,9 +2111,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2127,9 +2127,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2143,9 +2143,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2159,9 +2159,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2175,9 +2175,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2191,9 +2191,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2207,9 +2207,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2223,9 +2223,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2239,9 +2239,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2255,9 +2255,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2271,9 +2271,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2287,9 +2287,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2303,9 +2303,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2319,9 +2319,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2335,9 +2335,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2351,9 +2351,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2367,9 +2367,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2383,9 +2383,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2399,9 +2399,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 21.8,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_without_daily_limit",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2415,9 +2415,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2431,9 +2431,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2447,9 +2447,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2463,9 +2463,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2479,9 +2479,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2495,9 +2495,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2511,9 +2511,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2527,9 +2527,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2543,9 +2543,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2559,9 +2559,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2575,9 +2575,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2591,9 +2591,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2607,9 +2607,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2623,9 +2623,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2639,9 +2639,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2655,9 +2655,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2671,9 +2671,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2687,9 +2687,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2703,9 +2703,9 @@
       "restored": false,
       "was_active": false,
       "existing": false,
-      "bid_rub": 20,
-      "daily_limit_rub": 60,
-      "pricing": "new_20_rub_20261122",
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123",
       "publication_hold": false,
       "scheduled_at": "2026-11-21T02:08:45+03:00"
     },
@@ -2715,10 +2715,10 @@
       "city": "Якутск",
       "rank": 51,
       "population": 372800,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8535762307,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r52",
@@ -2726,10 +2726,10 @@
       "city": "Брянск",
       "rank": 52,
       "population": 372100,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8464740536,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r53",
@@ -2737,10 +2737,10 @@
       "city": "Иваново",
       "rank": 53,
       "population": 356700,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8527262717,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r54",
@@ -2748,10 +2748,10 @@
       "city": "Владимир",
       "rank": 54,
       "population": 341600,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8432885579,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r55",
@@ -2759,10 +2759,10 @@
       "city": "Чита",
       "rank": 55,
       "population": 337100,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8412303262,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r56",
@@ -2770,10 +2770,10 @@
       "city": "Симферополь",
       "rank": 56,
       "population": 335000,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8549561025,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r57",
@@ -2781,10 +2781,10 @@
       "city": "Нижний Тагил",
       "rank": 57,
       "population": 328200,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8639586833,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r58",
@@ -2792,10 +2792,10 @@
       "city": "Калуга",
       "rank": 58,
       "population": 325000,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8501730599,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r59",
@@ -2803,10 +2803,10 @@
       "city": "Белгород",
       "rank": 59,
       "population": 321800,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8555641365,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "ml-top60-20261122-r60",
@@ -2814,10 +2814,10 @@
       "city": "Подольск",
       "rank": 60,
       "population": 313400,
-      "avito_id": null,
-      "bid_rub": null,
+      "avito_id": 8534557466,
+      "bid_rub": 30.5,
       "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r51",
@@ -2825,10 +2825,10 @@
       "city": "Якутск",
       "rank": 51,
       "population": 372800,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8563307781,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r52",
@@ -2836,10 +2836,10 @@
       "city": "Брянск",
       "rank": 52,
       "population": 372100,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8412648718,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r53",
@@ -2847,10 +2847,10 @@
       "city": "Иваново",
       "rank": 53,
       "population": 356700,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8585424539,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r54",
@@ -2858,10 +2858,10 @@
       "city": "Владимир",
       "rank": 54,
       "population": 341600,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8462656503,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r55",
@@ -2869,10 +2869,10 @@
       "city": "Чита",
       "rank": 55,
       "population": 337100,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8509664695,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r56",
@@ -2891,10 +2891,10 @@
       "city": "Нижний Тагил",
       "rank": 57,
       "population": 328200,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8554574224,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r58",
@@ -2913,10 +2913,10 @@
       "city": "Белгород",
       "rank": 59,
       "population": 321800,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8474749668,
+      "bid_rub": 20.0,
+      "daily_limit_rub": 60.0,
+      "pricing": "tiered_ml_programming_20261123"
     },
     {
       "autoload_id": "programming-top60-20261122-r60",
@@ -2924,10 +2924,10 @@
       "city": "Подольск",
       "rank": 60,
       "population": 313400,
-      "avito_id": null,
-      "bid_rub": null,
-      "daily_limit_rub": null,
-      "pricing": "base_minimum_pending_check_20261122"
+      "avito_id": 8578069970,
+      "bid_rub": 25.0,
+      "daily_limit_rub": 75.0,
+      "pricing": "tiered_ml_programming_20261123"
     }
   ],
   "pending_publication_time_moscow": null,
@@ -2965,7 +2965,7 @@
     "updated_on": "2026-11-13",
     "pricing": "base_minimum_without_daily_limit"
   },
-  "verified_at_moscow": "2026-11-22T04:15:45+03:00",
+  "verified_at_moscow": "2026-11-23T18:06:36+03:00",
   "manual_pricing_count": 172,
   "base_minimum_exceptions_count": 4,
   "active_count": 176,
@@ -5440,5 +5440,2336 @@
     "upload_id": 638957761,
     "checked_at_moscow": "2026-11-22T12:30:23+03:00",
     "existing_promotions_verified_unchanged": 176
+  },
+  "tiered_ml_programming_20261123": {
+    "state": "verified",
+    "rule": "below20 ->20; 20..29 ->25; >=30 ->30; fallback base minimum",
+    "items": [
+      {
+        "avito_id": 8641701345,
+        "autoload_id": "ml-top50-20261121-r31",
+        "city": "Балашиха",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": null,
+        "bid_rub": 30.5,
+        "daily_limit_rub": null,
+        "applied": true
+      },
+      {
+        "avito_id": 8641487006,
+        "autoload_id": "ml-top50-20261121-r36",
+        "city": "Севастополь",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8641487006,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8639745897,
+        "autoload_id": "ml-top50-20261121-r47",
+        "city": "Сургут",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8639745897,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8639586833,
+        "autoload_id": "ml-top60-20261122-r57",
+        "city": "Нижний Тагил",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8639517241,
+        "autoload_id": "ml-top50-20261121-r50",
+        "city": "Грозный",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8639517241,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8639147182,
+        "autoload_id": "ml-top50-20261121-r42",
+        "city": "Астрахань",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8639147182,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8639052442,
+        "autoload_id": "ml-top50-20261121-r44",
+        "city": "Сочи",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8639052442,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8607067331,
+        "autoload_id": "programming-top30-20261113-r29",
+        "city": "Набережные Челны",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8607067331,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8608363015,
+        "autoload_id": "ml-top50-20261121-r32",
+        "city": "Кемерово",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8608363015,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8608287101,
+        "autoload_id": "ml-top50-20261121-r35",
+        "city": "Рязань",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8608287101,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8577481922,
+        "autoload_id": "ml-khabarovsk-1",
+        "city": "Хабаровск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8577481922,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8608220287,
+        "autoload_id": "programming-top50-20261121-r46",
+        "city": "Курск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8608220287,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8585424539,
+        "autoload_id": "programming-top60-20261122-r53",
+        "city": "Иваново",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8578069970,
+        "autoload_id": "programming-top60-20261122-r60",
+        "city": "Подольск",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8577206412,
+        "autoload_id": "programming-ekaterinburg-1",
+        "city": "Екатеринбург",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8577206412,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8575687981,
+        "autoload_id": "programming-voronezh-1",
+        "city": "Воронеж",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8575687981,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8563307781,
+        "autoload_id": "programming-top60-20261122-r51",
+        "city": "Якутск",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8555641365,
+        "autoload_id": "ml-top60-20261122-r59",
+        "city": "Белгород",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8554574224,
+        "autoload_id": "programming-top60-20261122-r57",
+        "city": "Нижний Тагил",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8546753087,
+        "autoload_id": "programming-top30-20261113-r27",
+        "city": "Ярославль",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8546753087,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8549561025,
+        "autoload_id": "ml-top60-20261122-r56",
+        "city": "Симферополь",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8547516294,
+        "autoload_id": "ml-top50-20261121-r48",
+        "city": "Тверь",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8547516294,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8549405432,
+        "autoload_id": "programming-top50-20261121-r40",
+        "city": "Липецк",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8549405432,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8546068129,
+        "autoload_id": "programming-top50-20261121-r45",
+        "city": "Улан-Удэ",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8546068129,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8544163151,
+        "autoload_id": "programming-krasnodar-1",
+        "city": "Краснодар",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8544163151,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8543861363,
+        "autoload_id": "ml-help-tyumen-1",
+        "city": "Тюмень",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8543861363,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8535762307,
+        "autoload_id": "ml-top60-20261122-r51",
+        "city": "Якутск",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8535360972,
+        "autoload_id": "programming-top50-20261121-r44",
+        "city": "Сочи",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8535360972,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8531145874,
+        "autoload_id": "programming-top30-20261113-r28",
+        "city": "Ставрополь",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8531145874,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8534557466,
+        "autoload_id": "ml-top60-20261122-r60",
+        "city": "Подольск",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": null,
+        "bid_rub": 30.5,
+        "daily_limit_rub": null,
+        "applied": true
+      },
+      {
+        "avito_id": 8521749165,
+        "autoload_id": "ml-stavropol-1",
+        "city": "Ставрополь",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8521749165,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8520836378,
+        "autoload_id": "programming-saratov-1",
+        "city": "Саратов",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8520836378,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8533966621,
+        "autoload_id": "programming-top50-20261121-r43",
+        "city": "Тула",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8533966621,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8527262717,
+        "autoload_id": "ml-top60-20261122-r53",
+        "city": "Иваново",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8517680962,
+        "autoload_id": "ml-barnaul-1",
+        "city": "Барнаул",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8517680962,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8509671796,
+        "autoload_id": "ml-top50-20261121-r38",
+        "city": "Калининград",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8509671796,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8509664695,
+        "autoload_id": "programming-top60-20261122-r55",
+        "city": "Чита",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8509332643,
+        "autoload_id": "ml-top50-20261121-r49",
+        "city": "Магнитогорск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8509332643,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8509053618,
+        "autoload_id": "programming-top50-20261121-r41",
+        "city": "Киров",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8509053618,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8508984250,
+        "autoload_id": "programming-top50-20261121-r31",
+        "city": "Балашиха",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8505233700,
+        "autoload_id": "ml-top50-20261121-r39",
+        "city": "Пенза",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8505233700,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8505043330,
+        "autoload_id": "ml-top50-20261121-r40",
+        "city": "Липецк",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8505043330,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8501730599,
+        "autoload_id": "ml-top60-20261122-r58",
+        "city": "Калуга",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8501423268,
+        "autoload_id": "ml-top50-20261121-r46",
+        "city": "Курск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8501423268,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8490846700,
+        "autoload_id": "programming-chelyabinsk-1",
+        "city": "Челябинск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8490846700,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8490650384,
+        "autoload_id": "programming-volgograd-1",
+        "city": "Волгоград",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8490650384,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8499284252,
+        "autoload_id": "programming-novosibirsk-1",
+        "city": "Новосибирск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8499284252,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8495212973,
+        "autoload_id": "ml-top50-20261121-r41",
+        "city": "Киров",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8495212973,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8491135082,
+        "autoload_id": "programming-moskva-1",
+        "city": "Москва",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8491135082,
+          "manualPromotion": {
+            "bidPenny": 2600,
+            "limitPenny": 7800
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8487272483,
+        "autoload_id": "ml-top50-20261121-r45",
+        "city": "Улан-Удэ",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8487272483,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8484089044,
+        "autoload_id": "programming-top50-20261121-r48",
+        "city": "Тверь",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8484089044,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8479391558,
+        "autoload_id": "ml-omsk-m8479391558",
+        "city": "Омск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8479391558,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8474749668,
+        "autoload_id": "programming-top60-20261122-r59",
+        "city": "Белгород",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8474681301,
+        "autoload_id": "programming-top50-20261121-r35",
+        "city": "Рязань",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8474681301,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8474545551,
+        "autoload_id": "programming-top50-20261121-r33",
+        "city": "Оренбург",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8474545551,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8469905198,
+        "autoload_id": "programming-ufa-1",
+        "city": "Уфа",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8469905198,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8474399075,
+        "autoload_id": "programming-top50-20261121-r36",
+        "city": "Севастополь",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8474399075,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8472914353,
+        "autoload_id": "programming-rostov-1",
+        "city": "Ростов-на-Дону",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8472914353,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8463607590,
+        "autoload_id": "programming-spb-1",
+        "city": "Санкт-Петербург",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8463607590,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8463416277,
+        "autoload_id": "ml-togliatti-1",
+        "city": "Тольятти",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8463416277,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8463216455,
+        "autoload_id": "ml-yaroslavl-1",
+        "city": "Ярославль",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8463216455,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8472440087,
+        "autoload_id": "programming-top50-20261121-r34",
+        "city": "Новокузнецк",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8472440087,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8464740536,
+        "autoload_id": "ml-top60-20261122-r52",
+        "city": "Брянск",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8464169294,
+        "autoload_id": "programming-top50-20261121-r39",
+        "city": "Пенза",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8464169294,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8462656503,
+        "autoload_id": "programming-top60-20261122-r54",
+        "city": "Владимир",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8454354818,
+        "autoload_id": "programming-top50-20261121-r37",
+        "city": "Чебоксары",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8454354818,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8454344352,
+        "autoload_id": "programming-top50-20261121-r47",
+        "city": "Сургут",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8454344352,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8445810420,
+        "autoload_id": "programming-krasnoyarsk-1",
+        "city": "Красноярск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8445810420,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8445048283,
+        "autoload_id": "programming-barnaul-1",
+        "city": "Барнаул",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8445048283,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8444991415,
+        "autoload_id": "programming-khabarovsk-1",
+        "city": "Хабаровск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8444991415,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8437154025,
+        "autoload_id": "programming-moscow-1",
+        "city": "Казань",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8437154025,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8446384961,
+        "autoload_id": "programming-top50-20261121-r32",
+        "city": "Кемерово",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8446384961,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8446168436,
+        "autoload_id": "ml-top50-20261121-r34",
+        "city": "Новокузнецк",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8446168436,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8445851291,
+        "autoload_id": "ml-top50-20261121-r43",
+        "city": "Тула",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8445851291,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8420658077,
+        "autoload_id": "ml-ulyanovsk-1",
+        "city": "Ульяновск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8420658077,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8434017047,
+        "autoload_id": "programming-top50-20261121-r50",
+        "city": "Грозный",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8434017047,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8433003707,
+        "autoload_id": "ml-top50-20261121-r37",
+        "city": "Чебоксары",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8433003707,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8414574481,
+        "autoload_id": "programming-vladivostok-1",
+        "city": "Владивосток",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8414574481,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8414045550,
+        "autoload_id": "programming-ulyanovsk-1",
+        "city": "Ульяновск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8414045550,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8432885579,
+        "autoload_id": "ml-top60-20261122-r54",
+        "city": "Владимир",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8420218945,
+        "autoload_id": "ml-tomsk-1",
+        "city": "Томск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8420218945,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8414768062,
+        "autoload_id": "ml-chelny-1",
+        "city": "Набережные Челны",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8414768062,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8412648718,
+        "autoload_id": "programming-top60-20261122-r52",
+        "city": "Брянск",
+        "direction": "programming",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8412573152,
+        "autoload_id": "programming-top50-20261121-r38",
+        "city": "Калининград",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8412573152,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8410429867,
+        "autoload_id": "programming-perm-1",
+        "city": "Пермь",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8410429867,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8407722845,
+        "autoload_id": "ml-krasnodar-m8407722845",
+        "city": "Краснодар",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8407722845,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8412303262,
+        "autoload_id": "ml-top60-20261122-r55",
+        "city": "Чита",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2000,
+          "limitPenny": 6000
+        },
+        "bid_rub": 20.0,
+        "daily_limit_rub": 60.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8400778531,
+        "autoload_id": "programming-tyumen-1",
+        "city": "Тюмень",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8400778531,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8400577249,
+        "autoload_id": "ml-irkutsk-1",
+        "city": "Иркутск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8400577249,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8411988659,
+        "autoload_id": "ml-top50-20261121-r33",
+        "city": "Оренбург",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8411988659,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8398623834,
+        "autoload_id": "programming-izhevsk-1",
+        "city": "Ижевск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8398623834,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8411124009,
+        "autoload_id": "programming-top50-20261121-r49",
+        "city": "Магнитогорск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8411124009,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8396297731,
+        "autoload_id": "programming-top30-20261113-r30",
+        "city": "Томск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8396297731,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8406948441,
+        "autoload_id": "ml-volgograd-m8406948441",
+        "city": "Волгоград",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8406948441,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8400315853,
+        "autoload_id": "programming-omsk-1",
+        "city": "Омск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8400315853,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8372444666,
+        "autoload_id": "ml-vladivostok-1",
+        "city": "Владивосток",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8372444666,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8370714313,
+        "autoload_id": "programming-nn-1",
+        "city": "Нижний Новгород",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8370714313,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8364822011,
+        "autoload_id": "programming-irkutsk-1",
+        "city": "Иркутск",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8364822011,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8398370668,
+        "autoload_id": "ml-makhachkala-2",
+        "city": "Махачкала",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8398370668,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8360224447,
+        "autoload_id": "programming-samara-1",
+        "city": "Самара",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8360224447,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8349164915,
+        "autoload_id": "ml-kazan-m8349164915",
+        "city": "Казань",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8349164915,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8347949702,
+        "autoload_id": "programming-makhachkala-1",
+        "city": "Махачкала",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8347949702,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8347672541,
+        "autoload_id": "programming-togliatti-1",
+        "city": "Тольятти",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8347672541,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8392745341,
+        "autoload_id": "programming-top50-20261121-r42",
+        "city": "Астрахань",
+        "direction": "programming",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8392745341,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8374096868,
+        "autoload_id": "ml-chelyabinsk-m8374096868",
+        "city": "Челябинск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8374096868,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8326627823,
+        "autoload_id": "ml-perm-m8326627823",
+        "city": "Пермь",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8326627823,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8364019340,
+        "autoload_id": "ml-izhevsk-1",
+        "city": "Ижевск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8364019340,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8346775529,
+        "autoload_id": "ml-voronezh-m8346775529",
+        "city": "Воронеж",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8346775529,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8341110771,
+        "autoload_id": "ml-samara-m8341110771",
+        "city": "Самара",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8341110771,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8326359140,
+        "autoload_id": "ml-ufa-m8326359140",
+        "city": "Уфа",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8326359140,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8294566494,
+        "autoload_id": "ml-krasnoyarsk-m8294566494",
+        "city": "Красноярск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8294566494,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8302238426,
+        "autoload_id": "ml-saratov-m8302238426",
+        "city": "Саратов",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8302238426,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8284126947,
+        "autoload_id": "ml-novosibirsk-m8284126947",
+        "city": "Новосибирск",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8284126947,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 7878466953,
+        "autoload_id": "ml-nizhniy-novgorod-m7878466953",
+        "city": "Нижний Новгород",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 7878466953,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 7878433256,
+        "autoload_id": "ml-sankt-peterburg-m7878433256",
+        "city": "Санкт-Петербург",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 7878433256,
+          "manualPromotion": {
+            "bidPenny": 2500,
+            "limitPenny": 7500
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25,
+        "daily_limit_rub": 75,
+        "applied": true
+      },
+      {
+        "avito_id": 8294704382,
+        "autoload_id": "ml-ekaterinburg-m8294704382",
+        "city": "Екатеринбург",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8294704382,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8294581876,
+        "autoload_id": "ml-rostov-na-donu-m8294581876",
+        "city": "Ростов-на-Дону",
+        "direction": "ml",
+        "before_promotion": {
+          "actionTypeID": 5,
+          "itemID": 8294581876,
+          "manualPromotion": {
+            "bidPenny": 2000,
+            "limitPenny": 6000
+          }
+        },
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      },
+      {
+        "avito_id": 8294130483,
+        "autoload_id": "ml-moskva-m8294130483",
+        "city": "Москва",
+        "direction": "ml",
+        "before_promotion": null,
+        "manual": {
+          "bidPenny": 2500,
+          "limitPenny": 7500
+        },
+        "bid_rub": 25.0,
+        "daily_limit_rub": 75.0,
+        "applied": true
+      }
+    ]
   }
 }
