@@ -3860,10 +3860,10 @@
     "updated_on": "2026-11-13",
     "pricing": "base_minimum_without_daily_limit"
   },
-  "verified_at_moscow": "2026-11-26T19:07:04+03:00",
+  "verified_at_moscow": "2026-11-26T19:10:42+03:00",
   "manual_pricing_count": 172,
   "base_minimum_exceptions_count": 4,
-  "active_count": 176,
+  "active_count": 225,
   "unwanted_active_count": 0,
   "additional_tutoring_date": "2026-11-11T18:00:00+03:00",
   "additional_tutoring_count": 10,
@@ -14116,10 +14116,22 @@
         "disable": false,
         "applied": true
       }
-    ]
+    ],
+    "post_upload_verified_at": "2026-11-26T19:10:42+03:00",
+    "pending_unpublication_ids": [
+      8621086629,
+      8478311126
+    ],
+    "permanent_exclusion_states": {
+      "8641701345": "old",
+      "8534557466": "old",
+      "8478311126": "active",
+      "8621086629": "active"
+    },
+    "unrelated_inactive": []
   },
   "expansion40_20261126": {
-    "state": "prepared",
+    "state": "accepted_processing",
     "additions": [
       {
         "autoload_id": "ml-20261126-r81",
@@ -14568,6 +14580,7 @@
       "Люберцы",
       "Одинцово"
     ],
-    "population_source": "https://www.mojgorod.ru/cities/pop2025_3.html"
+    "population_source": "https://www.mojgorod.ru/cities/pop2025_3.html",
+    "last_checked_at": "2026-11-26T19:10:42+03:00"
   }
 }
